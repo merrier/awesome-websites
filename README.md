@@ -28,6 +28,7 @@
 * [网站导航](#网站导航)
 * [资源下载](#资源下载)
 * [边学边玩](#边学边玩)
+* [程序员工具](#程序员工具)
 
 ## VR相关
 
@@ -39,6 +40,10 @@
 
 | 站点名称              | 描述         |  标签             |
 |----------------------|------------|-------------------|
+
+| [Bestvist博客](https://www.bestvist.com/h) | 作者的博客主要是前端开发相关工具的分享，同时比较重视用户体验，有很多有意思的干货 | `前端工具`、`用户体验` |
+| [KieSun](https://github.com/KieSun/Dream) | 作者是掘金年度作者，维护了一个 14K star的开源项目，并出版了小册前端面试之道 | `掘金`、`面试` |
+| [lifesinger](https://github.com/lifesinger/blog/issues) | 阿里玉伯的个人博客，有很多非技术文章 | `阿里`、`玉伯` |
 | [10081677wc](https://github.com/10081677wc/blog/issues) | 字节跳动公司某前端员工的博客 | `博客`、`字节跳动`、`前端` |
 | [@bosslogic](https://www.instagram.com/bosslogic/) | 这是一位大神，你在网上看到的 90% 的漫威非官方海报都可能出自他手 | `漫威`、`海报`、`instagram` |
 | [Aanad Sharma](http://aprilzero.com/) | 用各种wearable记录自己的数据，特效特别酷炫 | `可视化`、`酷炫`、`创意` |
@@ -143,6 +148,7 @@
 
 | 站点名称              | 描述         |  标签             |
 |----------------------|------------|-------------------|
+| [权力的游戏3d地图导览](https://alex2wong.github.io/Game-of-Throne-Map/index.html) |  | `权利的游戏`、`3D地图` |
 | [150 CSS Effects](https://1stwebdesigner.com/css-effects/) | 150 Amazing Examples of CSS Animation & Effects | `特效`、`CSS`、`动画` |
 | [2018 Make Me Pulse](http://2018.makemepulse.com/) | 用canvas绘制了2018这四个数字，特效很赞 | `canvas`、`特效` |
 | [68Design](http://www.68design.net/cool/) | 专门搜集国外高质量的网站，而且定期更新，非常酷炫 | `酷炫` |
@@ -214,44 +220,37 @@
 
 | 站点名称              | 描述         |  标签             |
 |----------------------|------------|-------------------|
+
+| [TinyURL](https://tinyurl.com/) | 可以将网址转换成tinyurl.com域名的短链 | `短链`、`短网址` |
+| [哇咔工具]](https://www.wakatool.com/maker) | 在线表情包制作器，功能强大，操作简单，素材丰富 | `表情制作` |
+| [Dunnnk]](http://dunnnk.com) | 生成一些在一些设备上产品展示图片，只要上传自己的图片就可以，目前支持iOS相关设备和安卓手机 | `产品展示`、`图片生成` |
+| [比特虫]](http://www.bitbug.net/) | 生成图标ico | `ico生成` |
+| [压缩图](https://www.yasuotu.com/buttonColor) | 在线图片（照片、图标）去底色工具，可以将纯色图片背景色免费去除 | `去底色`、`图片压缩`、`格式转换`、`图片操作` |
+| [Whimsical](https://whimsical.com/) | 在线画协作流程图、线框图、便签和思维导图 | `流程图`、`思维导图` |
+| [t.cn短网址生成器](http://qvni.cn/t.cn/) | 可以将网址转换成t.cn域名的短链 | `短链`、`短网址`、`t.cn` |
+| [cloudconvert](https://cloudconvert.com/mkv-to-mp4) | 在线转换视频文件至 MP4 格式，免费并且不需要注册 | `视频转换`、`MP4` |
 | [My Brand New Logo](https://mybrandnewlogo.com/logo-maker) | 在30秒内创建一个Logo，可用于各种用途 | `Logo` |
 | [小鸡词典](https://jikipedia.com/) | 查网络流行语，就上小鸡词典。小鸡词典专注于网络流行语的收录和解释，以最快的速度在全网捕捉当下的网络热词。以简单明了，清晰易懂的形式，向用户介绍网络流行语的含义、来历、传播过程和引申义。用户不仅能够通过小鸡词典了解网络用语，还能接触到小众黑话、新梗热梗、弹幕用语、方言俚语等不同的流行文化，以及网友们自主创造的旧词新解等。 | `流行语`、`梗` |
-| [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/) | 超级简单的Git入门，有入门篇、高级篇和 Git 索引，内容很全 | `Git`、`教程` |
 | [10分钟邮箱](https://10minutemail.com/10MinuteMail/index.html?dswid=5142) | 访问网页即可获得一个临时邮箱，页面广告较多。 | `临时邮箱` |
 | [99PDF](http://www.99pdf.com/) | 在线批量压缩PDF | `压缩PDF` |
 | [ASCII Generator](http://www.network-science.de/ascii/) | 根据你输入的英文单词，生成相应的字符图形 | `字符图形` |
-| [ASCIIFlow Infinity](http://asciiflow.com/) | 利用ASCII字符进行绘制，可以调整大小，自由绘制，可以绘制出类似于佛祖那样的代码。 | `ASCII`、`代码` |
 | [ATOOL在线工具](http://www.atool.org) | 由华中科技大学一位在校女研究生开发的在线工具集合网站，旨在做出最简单方便、最完整干净、最全面完整的工具网站 | `工具集合` |
-| [autoprefixer](http://autoprefixer.github.io/) | 在线生成css兼容代码，其实就是autoprefixer的在线版。。 | `兼容`、`autoprefixer` |
 | [AYNU音乐实验室](http://mu.aynu.top/) | 免费的在线音乐播放器。收录全网最新无损音乐，提供无损MP3音乐免费下载，免开VIP尽享全网音乐免费播放下载！ | `音乐` |
 | [AZW3在线转换](http://www.zamzar.com/convert/azw3-to-epub/) | 将azw3文件转换成其他格式文件 | `azw3`、`转换` |
-| [BIOMES](https://demo.marpi.pl/biomes/) | 利用WebGL可以随机生成抽象的体素地形 | `WebGL`、`地形` |
 | [Brandmark](http://brandmark.io/) | 免费生成logo，可通过关键词限定范围 | `logo` |
 | [Cacoo](https://cacoo.com/) | 在线画图软件，可以创建和共享流程图、线框图、UML模型、网络图等。 | `流程图` |
-| [Can I use](https://caniuse.com/) | 提供现代Web技术的浏览器支持情况查询 | `Web`、`兼容` |
 | [Canva](https://www.canva.com/) | 利用 Canva 的拖放功能和布局，可以设计、分享和打印名片、徽标、演示文稿及更多内容。 | `设计`、`分享` |
-| [Carbon](https://carbon.now.sh) | 生成类似 mac 风格的代码图片，用于分享 | `Mac`、`代码` |
-| [Character Entity Reference Chart](https://dev.w3.org/html5/html-author/charref) | 各种符号的转义字符表 | `转义` |
-| [Choose A License](https://choosealicense.com/) | 根据几个问题为你的开源协议的选择提供建议 | `协议` |
 | [ClipConverter.cc](https://www.clipconverter.cc/) | 单个Youtube视频下载，支持多种格式、多种清晰度。 | `Youtube` |
-| [CODELF](https://unbug.github.io/codelf/) | 项目命名神器，可以通过关键词搜索github、gitlab等网站上的项目名称 | `命名` |
 | [Convertio](https://convertio.co/zh/) | Convertio – 在线转换文件的简单工具。支持超过284种不同的文档、图像、电子表格、电子书、文档、演示文稿、音频和视频格式。 | `转换文件` |
-| [CSS Sprite Generator](https://spritegen.website-performance.org/) | 在线生成雪碧图和对应CSS的工具 | `雪碧图`、`Sprite` |
-| [CSS Triangle Generator](http://apps.eky.hk/css-triangle-generator/zh-hant) | CSS三角形产生器 | `三角形` |
-| [CSS Triggers](https://csstriggers.com/) | 列举了在不同浏览器引擎中，各种CSS属性对于重排和重绘的影响 | `重排`、`重绘` |
-| [css-selectors-cheatsheet](https://frontend30.com/css-selectors-cheatsheet/) | 共十几道题，考察你对CSS选择器的掌握程度 | `CSS选择器` |
-| [CSS动画曲线绘制](http://yisibl.github.io/cubic-bezier/#.17,.67,.83,.67) | 通过可视化的方式帮你生成CSS中的cubic-bezier函数参数 | `CSS动画`、`贝塞尔曲线`、`cubic-bezier` |
 | [Degraeve](https://www.degraeve.com/img2txt.php) | 根据图片生成相应的字符图形 | `字符图形` |
 | [Devhints](https://devhints.io/) | 常用速查表，快速查询各类框架和库的常用方法，很实用 | `速查` |
 | [Diagram](https://webdemo.myscript.com/views/diagram/index.html#/edit) | 手绘图，然后保存成 PPT 的在线服务。 | `手绘`、`PPT` |
 | [Draw.io](https://www.draw.io/) | 在线云绘图制作平台，可以快速、自由的创建简单的图表，流程图、网页模版构架图、框架图等等 | `流程图` |
 | [Editor.Pho.to](http://editor.pho.to/zh/edit/) | Editor.Pho.to 是一款拥有照片即时编辑工具的在线照片编辑器。添加文本和标签，应用滤镜和特效。裁剪、旋转、调整大小和调整图片。 | `照片编辑`、`滤镜` |
-| [esprima Parser](http://esprima.org/demo/parse.html) | 输入JS语句可以立马生成我们所需的抽象语法树（AST） | `抽象语法树`、`AST` |
 | [ezyZip](http://www.ezyzip.com/cn.html) | 在线压缩文件。无需安装或上传/下载。在浏览器中运行 | `压缩文件` |
 | [favicon.cc](http://www.favicon.cc/) | 这是一个可以将用户的图片转换为ico图片的网站。将图片制作成ico图标并导出。 | `ico` |
 | [FIGMA](https://www.figma.com) | 一款界面设计协作神器，图形设计功能强大、支持多人在线编辑与多人实时评论，用于开会或者研讨非常方便，也可以随意保存历史版本，简直堪称设计界的Google Docs。支持导出jpg、png、svg等多种格式。 | `设计`、`协同` |
 | [FreeSSL.org](https://freessl.cn/) | 一个申请免费HTTPS证书的网站 | `免费证书`、`HTTPS` |
-| [GitPunch](https://gitpunch.com/) | 会定制你想追踪的npm包库，还可以定时发邮件通知 | `NPM`、`邮件` |
 | [html5在线画板](http://hotu.co/hua/) | 一个通过html5就可以进行绘画的在线画板 | `HTML5`、`在线画板` |
 | [LinkFox](https://linkfox.io/) | 免费的短链服务，可以将长链接转换为短链 | `短链` |
 | [https://www.studyjava.cn/douyin](https://www.studyjava.cn/douyin) | 支持抖音、快手、微视等视频无水印下载 | `无水印` |
@@ -264,9 +263,7 @@
 | [MP4ToGif](https://coldday.github.io/mp4ToGif/) | 视频转Gif，可以在线添加文字和编辑 | `视频`、`Gif` |
 | [MySSL](https://myssl.com/) | 检测网站的SSL证书是否安全，是否存在漏洞，是否达到SSL行业标准，符合苹果ATS规范，能否通过微信小程序安全要求。同时提供证书格式转换，CSR，证书链，SSL配置生成等工具。 | `SSL` |
 | [NameBeta](https://namebeta.com/) | 共收录 1578 种顶级域名，汇集互联网上 27 家知名域名注册商，每日更新价格信息 | `域名` |
-| [nginxconfig.io](https://nginxconfig.io/) | 在线生成nginx配置文件，可以选择语言和功能，而且该站点是开源的。 | `nginx` |
 | [Nicetool](http://www.nicetool.net/) | 好工具网致力于收集和打造各种简单易用的在线工具，目前已有500多个工具。 | `工具集合` |
-| [No-Cruft Excel to HTML Table Converter](http://pressbin.com/tools/excel_to_html_table/index.html) | 可以从Excel电子表格（或HTML表格）粘贴数据，并将其转换为没有任何格式的新HTML表。 | `HTML`、`表格` |
 | [Office Converter](https://cn.office-converter.com/) | 免费在线文件转换器( office-converter.com)，是最佳在线文件转换器。你能免费在线转换视频,在线转换音频,在线转换图形,在线转换文档和压缩。在线转换文件，包括PDF，Word，Excel，PowerPoint，OpenOffice，Flash，HTML，MP4，MP3，AVI，MKV，FLV，MOV，SWF，iPhone，Microsoft Xbox，WMV，WMA，OGG，JPG，BMP，TIFF，PNG，GIF，EPUB，ZIP，RAR等多种格式 | `文件转换` |
 | [openGPS.cn](https://www.opengps.cn/Data/IP/LocHighAcc.aspx) | 根据IP定位地理位置 | `IP`、`地理位置` |
 | [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) | 测试网站速度，优化性能，同时还会给出很具体的建议，很强大实用 | `性能` |
@@ -276,21 +273,13 @@
 | [picdiet](https://www.picdiet.com/) | Picdiet是一款用JavaScript编写而成的图片压缩神器，所有压缩过程都在浏览器中进行，尺寸、数量、大小均无限制，完全免费，缺点是只能压缩jpg格式的图片 | `图片压缩`、`JPG` |
 | [Placeit](https://placeit.net/) | 提供了各种设计P图模板，每个演示用的模板上都附有标准尺寸，你也可以先在PS等软件处理好尺寸再上传，立即生成各种手拿iPhone、iMac，开着Macbook的图片，来演示你设计的静态图效果。 | `设计`、`图片` |
 | [ProcessOn](https://www.processon.com/) | 免费在线作图，同时支持实时协作 | `作图`、`协作` |
-| [PXtoEM](http://pxtoem.com/) | PX和EM单位转换器 | `单位转换` |
-| [Regex101](https://regex101.com/) | 在线测试正则表达式 | `正则` |
-| [SassMeister](https://www.sassmeister.com/) | Sass在线编译，就是网站做的有点少女。。 | `Sass`、`编译` |
 | [Screen Sizes](http://screensiz.es/) | 展示了各种机型的尺寸、像素密度和像素比 | `机型`、`像素` |
-| [ShieldsIO](https://shields.io/) | 提供了很多用于Github、Wordpress的徽章，拥有多种定制化功能 | `徽章` |
 | [SM.MS](https://sm.ms/) | 支持多张照片上传，单文件限制 5M 以内。支持 UBB 代码，上传后点 BBCode 即可。 | `图片上传` |
 | [Smallpdf](https://smallpdf.com/) | 非常厉害的一个网站，PDF压缩，PDF转PPT，Word，Excel等等都可以直接通过这个网站实现 | `PDF` |
 | [Squoosh](https://squoosh.app/) | GoogleCreativeLab出品的在线压缩图片工具 | `Google`、`压缩图片` |
-| [SSL Labs](https://www.ssllabs.com/ssltest/analyze.html) | 对SSL Web服务器进行深入分析，不过耗时较长 | `Web`、`服务器分析` |
-| [SSL在线工具](http://www.ssleye.com/) | 支持15种对称加密算法在线校验、公私钥对的生成、PKCS1、PKCS8相互转换、CSR生成&查看、证书查看等等功能 | `SSL` |
-| [TablesGenerator](http://www.tablesgenerator.com/) | 在线可视化生成LateX、Markdown、HTML表格 | `表格` |
 | [thumborize.me](http://thumborize.me/) | Thumbor是一个智能图片处理服务，可以提供图片裁切、缩放、旋转等服务，wiki地址：https://thumbor.readthedocs.io/en/latest/index.html | `图片处理` |
 | [Tineye](https://www.tineye.com/) | Search by image and find where that image appears online | `图片来源` |
 | [tinyPNG](https://tinypng.com/) | 在线压缩jpg或png格式的图片，最大5MB，最多20张 | `图片压缩` |
-| [Toolfk在线工具箱](https://www.toolfk.com/) | 一款程序员工具箱，包含几十个实用的工具。 | `工具集合` |
 | [Torrentz2](https://torrentz2.eu/) | 种子搜索器 | `种子搜索` |
 | [transfonter](https://transfonter.org/) | 该工具将任何TTF、OTF、WOFF、WOFF2或SVG字体转换成CSS字体格式，并有CSS和SVG格式类型文件。 | `字体转换` |
 | [uiGradients](https://uigradients.com/) | 汇集了一些好看的渐变，可以直接下载图片和CSS，同时还支持旋转、导入等功能 | `渐变` |
@@ -326,11 +315,8 @@
 | [智图](https://zhitu.isux.us/) | 腾讯ISUX前端团队开发的图片压缩工具。他与周边的tinypng压缩神器相比较，压缩效果和效率会相对优化。他可以转换为webp格式的图片（相比PNG和JPEG在不降低图片质量的同时，减少约三分之一的体积），可以控制图片输出质量，而且可以拖动设置条对比压缩前后的效果。 | `图片压缩` |
 | [标你妹啊](http://www.biaonimeia.com) | UI自动标注工具，一键生成iOS、android、网页标注神器！提升设计师效率！ | `自动标注` |
 | [求字体](http://www.qiuziti.com/) | 求字体网免费提供上传图片找字体、字体实时预览及字体下载服务，本网站可识别中文、英文、日韩、书法等多种类字体。只要上传图片或输入字体名称，就可以帮您找字体。 | `找字体` |
-| [渐变层生成器](https://codepen.io/pissang/full/geajpX) | 直接用鼠标拖拽就可以调整渐变层的各种参数，然后可以导出为svg格式。 | `渐变` |
 | [百度脑图](http://naotu.baidu.com/) | 类似ProcessOn，但是感觉功能会更多，有序号、进度指示灯功能 | `流程图` |
 | [稿定抠图](https://www.gaoding.com/koutu) | 稿定设计是一款专为淘宝店主、新媒体运营人员和修图爱好者打造的免费在线抠图工具，无需进行复杂的操作，通过简单拖拽，就能完成产品抠图、淘宝抠图、证件照抠图换背景、抠商品图 | `抠图` |
-| [缓动函数速查表](https://easings.net/) | 形象地介绍了各种缓动函数，而且开源 | `缓动函数` |
-| [美图前端动画库](http://f2er.meitu.com/animastore/) | 美图的前端团队制作的动画库，收集了一些简单实用的动画，可以直接复制代码 | `动画` |
 | [草料二维码](http://cli.im/) | 生成二维码，可以是文本、网址、名片、小程序等等 | `二维码` |
 | [装逼大全](https://www.zhuangbi.info/) | 快速搜索制作各种装逼表情。让开我要开始装逼了。 | `表情` |
 | [装逼神器](http://deepba.com/) | 在线免费制作各种美女举牌照,id照,搞笑网络证件,搞笑表情在线制作,支付宝转账生成,装b神器,装逼神器,随风出品 | `图片`、`表情` |
@@ -387,6 +373,7 @@
 
 | 站点名称              | 描述         |  标签             |
 |----------------------|------------|-------------------|
+| [Foursquare](https://developer.foursquare.com/) | 位置服务，优点在于免费、功能强大 | `位置服务` |
 | [Crazy egg热力图](http://www.crazyegg.com/) | 主要特点是对页面热点追踪分析的热力图，功能不错 | `热力图` |
 | [数说立方](https://cube.datastory.com.cn/) | 本质上是一个BI产品，配备百亿级社交数据库，支持全网公开数据实时抓取，并搭载了分布式搜索、语义分析、数据可视化三大引擎系统的海量计算平台，实现数据处理“探索式分析”和“秒级响应”的两个核心功能。 | `数据分析` |
 | [百度统计](http://tongji.baidu.com/) | 包括流量相关的网站统计、推广统计、移动统计三部分内容。分析内容包括趋势分析、来源分析、页面分析、访客分析、定制分析和优化分析。其中的页面点击热力图功能不错。 | `统计`、`热力图` |
@@ -396,6 +383,8 @@
 
 | 站点名称              | 描述         |  标签             |
 |----------------------|------------|-------------------|
+| [WebGL-Fluid-Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) | 利用WebGL实现的鼠标滑动特效 | `WebGL` |
+| [One Plus 7 Pro](https://www.oneplus.com/cn/7pro#/) | 一加手机的官网，从视觉效果上和交互特效上就给人眼前一亮的感觉 | `黑白插画`、`设计` |
 | [Anita](https://www.anita-gelato.com/) | 本款美食类网站，整款设计采用了非常有趣的黑白插画设计风格，极赋视觉吸引力。加之，通过直观的黑白网格，更加直观集中的展示其产品和相关服务，用户体验也是极好。 | `黑白插画`、`设计` |
 | [Bailey Coffee Screamers](https://www.baileyscreamers.com/) | 黑色背景，辅以高清彩色产品图片或视频，能够极大的强调和突出页面产品，提升产品销售量。而作为一款在线咖啡类产品售卖的网站，本网页，就在黑色背景上，展示了各种高清产品图片和视频，轻轻松松将让用户集中于所售卖的产品，从而效的提升用户购买的可能。 | `配色` |
 | [Bugatti Divo](https://www.bugatti.com/divo/) | 该款汽车类网页设计，除了采用处处透着高档奢华之感的黑、白、蓝配色方案之外，最引人入胜的是其页面添加的交互式车道设计。用户简单滚动鼠标，跟随蜿蜒的车道，指尖轻点，即可了解产品（即各类车型）相关信息。此外，车辆信息，全屏视频展示，也更加生动直观，有趣而不失实用性，有效地降低了网站跳出率。 | `设计`、`配色`、`交互` |
@@ -416,6 +405,7 @@
 
 | 站点名称              | 描述         |  标签             |
 |----------------------|------------|-------------------|
+| [樱花动漫](http://www.yhdm.tv/) | 樱花动漫拥有上万集高清晰画质的在线动漫，观看完全免费、无须注册、高速播放、更新及时的专业在线樱花动漫站，我们致力为所有动漫迷们提供最好看的动漫。 | `动漫` |
 | [BD影视](https://www.bdys.co/) | 主要提供丰富的影视资源下载,并且可以在线云播预览,上映之后三个月内发布枪版,三个月之后发布蓝光高清下载 | `电影资源` |
 | [Cheatography](https://www.cheatography.com/) | 这个网站上有超过4000份对照表，包括Linux、MySQL、Vim等等 | `对照表` |
 | [CSDN](http://blog.csdn.net/web/index.html) | 已经没落的CSDN，好文章越来越少了感觉 | `CSDN`、`文章` |
@@ -443,6 +433,10 @@
 
 | 站点名称              | 描述         |  标签             |
 |----------------------|------------|-------------------|
+| [Rebrickable](https://rebrickable.com/) | 关于乐高的一切在这里都可以找到，还有一些免费/付费的 Moc 图纸 | `乐高`、`LEGO`、`Moc`、`积木`、`图纸` |
+| [CineMasterPieces](http://cinemasterpieces.com/) | 海报不少，而且像素都很高，不过购买的话会比较贵 | `海报` |
+| [稿定设计](https://www.gaoding.com/) | 在线快速图片和视频编辑，不会PS也能搞定设计。海报、简历、PPT、公众号配图、电商等海量模板快速出图。三秒抠图实用便捷，抖音快手热门视频轻松搞定。 | `抠图`、`图片编辑`、`模板` |
+| [奇遇网络](https://www.qiyuwg.com/) | 奇遇网络专业提供seo优化服务，seo优化外包，免费建站模板，免费wordpress模板，DIV+CSS模板,几千种免费网页模板，收集最好最全的html5模板及css3模板,html5是目前最前瞻的网页技术,本站为大家提供免费技术交流平台。 | `模板`、`源码`、`网页` |
 | [17素材](http://www.17sucai.com/) | 各种各样的素材和源码 | `素材`、`源码` |
 | [6m5m](http://www.6m5m.com/) | 游戏素材资源平台 | `游戏素材`、`资源` |
 | [Cupcake](http://cupcake.nilssonlee.se/) | 所有图片你都可以复制、修改和分发，即使是为了商业目的 | `图片` |
@@ -564,6 +558,7 @@
 
 | 站点名称              | 描述         |  标签             |
 |----------------------|------------|-------------------|
+| [M主题](http://mzhuti.com/) | M主题小程序站为您提供精品Wordpress小程序模板下载,帮助更多Wordpress站长使用小程序。 | `小程序`、`Wordpress`、`模板` |
 | [Alinti](http://preview.themeforest.net/item/alinti-minimal-creative-wordpress-portfolio/full_screen_preview/17753077) | 利用高清黑白照片或背景图片，简化黑白网页设计，简约式WordPress黑白网页设计典范 | `黑白`、`简约` |
 | [famethemes](https://www.famethemes.com/) | 提供了一些设计优雅、干净、漂亮的WordPress主题，包括免费和付费的 | `主题` |
 | [ShieldsIO](https://shields.io/) | 提供了很多用于Github、Wordpress的徽章，拥有多种定制化功能 | `徽章` |
@@ -575,6 +570,7 @@
 
 | 站点名称              | 描述         |  标签             |
 |----------------------|------------|-------------------|
+| [全历史](https://www.allhistory.com/) | 全历史(Allhistory）以AI知识图谱为核心引擎，通过高度时空化、关联化数据的方式构造及展现数字人文内容，尤其是历史知识。让用户沉浸在纵横开阔、左图右史的（历史、人文、社科等）知识海洋中。 | `知识图谱`、`历史知识` |
 | [@bosslogic](https://www.instagram.com/bosslogic/) | 这是一位大神，你在网上看到的 90% 的漫威非官方海报都可能出自他手 | `漫威海报` |
 | [AYNU音乐实验室](http://mu.aynu.top/) | 免费的在线音乐播放器。收录全网最新无损音乐，提供无损MP3音乐免费下载，免开VIP尽享全网音乐免费播放下载！ | `音乐播放器`、`音乐下载` |
 | [BD影视](https://www.bdys.co/) | 主要提供丰富的影视资源下载，并且可以在线云播预览，上映之后三个月内发布枪版，三个月之后发布蓝光高清下载 | `影视资源下载` |
@@ -599,6 +595,10 @@
 
 | 站点名称              | 描述         |  标签             |
 |----------------------|------------|-------------------|
+| [bookset](https://bookset.me/) | bookset精品电子书免费下载，分享的免费电子书格式有mobi，epub，azw3等格式，并根据豆瓣评分排序，提供的电子书均为精品，有得到，喜马拉雅，微信读书，知乎等推荐书籍 | `电子书` |
+| [雅书](https://yabook.org/) | 雅书电子书下载站，提供最新PDF电子书图书免费下载，以PDF为主的PDF电子书免费下载供学习使用。 | `电子书`、`PDF` |
+| [好多书](http://booksk.com/) | 专业的电子书下载网站,epub,azw3,mobi,pdf,txt格式下载,小说文学,经济管理,传记,政治军事,历史、心理、教材辅助、外语学习等中英文电子书下载。 | `电子书` |
+| [PDF转MOBI](https://pdf2mobi.com/zh/) | 通过此PDF转至MOBI格式的转换软件，您可以将PDF文档转换成Kindle设备适用的MOBI文档。 | `MOBI`、`Kindle`、`格式转换` |
 | [书伴](https://bookfere.com/) | 网站页面简洁，无广告。书伴还有一个最大的特色是【推送服务】，注册账号后，定期会自动接收到最新期刊的更新。书伴电子书资源不是很多，但是更新速度快 | `推送`、`电子书` |
 | [书格](https://shuge.org/) | 书格是一个自由开放的在线古籍图书馆，致力于开放式分享、介绍、推荐有价值的古籍善本，并鼓励将文化艺术作品数字化归档。 | `古籍图书馆` |
 | [开源书籍](https://hellogithub.com/periodical/category/开源书籍/?page=1) | GitHub 上开源、有趣的开源书籍 – 适合新手入门的开源书籍 | `Github`、`开源书籍`、`入门` |
@@ -629,6 +629,13 @@
 
 | 站点名称              | 描述         |  标签             |
 |----------------------|------------|-------------------|
+| [蓝奏云]](https://www.lanzous.com/b749444) | 收集了一些免费看视频的软件apk包 | `免费看视频` |
+| [麦氪派](https://www.waitsun.com/) | 致力于分享优秀的Mac应用软件，介绍Mac的使用技巧，最有价值的Mac软件免费分享，提供最新Mac破解软件免费下载。 | `Mac软件`、`Mac应用` |
+| [未来Mac下载](https://mac.orsoon.com/) | 有最好的mac软件下载和mac游戏下载 | `Mac软件`、`Mac游戏` |
+| [Xclient](https://xclient.info/) | 精品MAC应用分享，每天分享大量mac软件，为您提供优质的mac软件，免费软件下载服务 | `Mac软件`、`免费应用` |
+| [fastsoso](https://www.fastsoso.cn/) | 可以搜索网盘资源，虽然是付费下载，但是非常便宜，相当于只需要几分钱 | `网盘` |
+| [云盘精灵](https://www.yunpanjingling.com/) | fastsoso -- 专注百度网盘搜索，百度云网盘搜索工具，你可以在这里搜索视频、音乐、图片、软件、文档、种子、专辑等资源，让百度云盘分享下载更方便、更快捷，比site:pan.baidu.com命令更好用。 | `网盘`、`电影`、`视频` |
+| [CEIC](https://www.ceicdata.com/zh-hans) | 前所未有地覆盖全球超过195个国家和地区的经济数据（宏观经济、GDP、进出口、能源等）。CEIC帮助您一站式获取来自上千个数据源的百万级的时间序列数据，客服团队帮助您寻找或解释您想要的数据信息。 | `经济数据` |
 | [6v电影网](http://www.6vhao.tv/) | 好看的电影、电视剧、综艺在线观看和下载，还可以查看观看榜单 | `电影`、`电视剧`、`综艺` |
 | [Ant Design Landing](https://landing.ant.design/index-cn) | 平台拥有丰富的各类首页模板，下载模板代码包，即可快速使用，也可使用首页编辑器，快速搭建一个属于你的专属首页 | `首页模板` |
 | [ClipConverter.cc](https://www.clipconverter.cc/) | 单个Youtube视频下载，支持多种格式、多种清晰度。 | `Youtube视频下载` |
@@ -664,3 +671,45 @@
 | [Vim Adventures](https://vim-adventures.com/) | 在游戏中学习Vim | `Vim` |
 | [XSS game](https://xss-game.appspot.com/) | 通过游戏的方式了解XSS的攻击方式以及如何防备 | `XSS` |
 | [极客战记](https://codecombat.com/play) | 一个面向学生的通过把玩真正的游戏来学习计算机科学的平台。它是一个由上千玩家共同志愿维护的项目。支持 Java， JavaScript， Python， Lua， CoffeeScript。 | `游戏`、`计算机科学` |
+
+
+## 程序员工具
+
+| 站点名称              | 描述         |  标签             |
+|----------------------|------------|-------------------|
+| [Clippy](https://bennettfeely.com/clippy/) | CSS 中的 clip-path 可视化生成器 | `clip-path` |
+| [Postwoman](https://postwoman.io/) | 请求生成器，可帮助您更快地创建请求，节省了宝贵的开发时间。 | `请求`、`Postman` |
+| [Swagger](https://swagger.io/) | 在整个API生命周期的开发中，从设计和文档到测试和部署，都提供了相应的工具和解决方案 | `API`、`文档` |
+| [bundlephobia](https://bundlephobia.com/) | 在线检测添加一个 NPM Package 所需要的成本，包括包体积及下载时间 | `NPM 包`、`包分析` |
+| [AST explorer](https://www.wakatool.com/maker) | 在线浏览AST结果，支持多种语言 | `AST` |
+| [Stackblitz]](https://stackblitz.com/) | 在线编辑，主要优势在于可以非常方便的选择所需框架 | `在线编辑` |
+| [Express Route Tester](http://forbeslindesay.github.io/express-route-tester/) | 可以检测Express路由写法是否正确 | `express`、`路由检测`、`router` |
+| [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/) | 超级简单的Git入门，有入门篇、高级篇和 Git 索引，内容很全 | `Git`、`教程` |
+| [ASCIIFlow Infinity](http://asciiflow.com/) | 利用ASCII字符进行绘制，可以调整大小，自由绘制，可以绘制出类似于佛祖那样的代码。 | `ASCII`、`代码` |
+| [autoprefixer](http://autoprefixer.github.io/) | 在线生成css兼容代码，其实就是autoprefixer的在线版。。 | `兼容`、`autoprefixer` |
+| [BIOMES](https://demo.marpi.pl/biomes/) | 利用WebGL可以随机生成抽象的体素地形 | `WebGL`、`地形` |
+| [Can I use](https://caniuse.com/) | 提供现代Web技术的浏览器支持情况查询 | `Web`、`兼容` |
+| [Carbon](https://carbon.now.sh) | 生成类似 mac 风格的代码图片，用于分享 | `Mac`、`代码` |
+| [Character Entity Reference Chart](https://dev.w3.org/html5/html-author/charref) | 各种符号的转义字符表 | `转义` |
+| [Choose A License](https://choosealicense.com/) | 根据几个问题为你的开源协议的选择提供建议 | `协议` |
+| [CODELF](https://unbug.github.io/codelf/) | 项目命名神器，可以通过关键词搜索github、gitlab等网站上的项目名称 | `命名` |
+| [CSS Sprite Generator](https://spritegen.website-performance.org/) | 在线生成雪碧图和对应CSS的工具 | `雪碧图`、`Sprite` |
+| [CSS Triangle Generator](http://apps.eky.hk/css-triangle-generator/zh-hant) | CSS三角形产生器 | `三角形` |
+| [CSS Triggers](https://csstriggers.com/) | 列举了在不同浏览器引擎中，各种CSS属性对于重排和重绘的影响 | `重排`、`重绘` |
+| [css-selectors-cheatsheet](https://frontend30.com/css-selectors-cheatsheet/) | 共十几道题，考察你对CSS选择器的掌握程度 | `CSS选择器` |
+| [CSS动画曲线绘制](http://yisibl.github.io/cubic-bezier/#.17,.67,.83,.67) | 通过可视化的方式帮你生成CSS中的cubic-bezier函数参数 | `CSS动画`、`贝塞尔曲线`、`cubic-bezier` |
+| [esprima Parser](http://esprima.org/demo/parse.html) | 输入JS语句可以立马生成我们所需的抽象语法树（AST） | `抽象语法树`、`AST` |
+| [GitPunch](https://gitpunch.com/) | 会定制你想追踪的npm包库，还可以定时发邮件通知 | `NPM`、`邮件` |
+| [nginxconfig.io](https://nginxconfig.io/) | 在线生成nginx配置文件，可以选择语言和功能，而且该站点是开源的。 | `nginx` |
+| [No-Cruft Excel to HTML Table Converter](http://pressbin.com/tools/excel_to_html_table/index.html) | 可以从Excel电子表格（或HTML表格）粘贴数据，并将其转换为没有任何格式的新HTML表。 | `HTML`、`表格` |
+| [PXtoEM](http://pxtoem.com/) | PX和EM单位转换器 | `单位转换` |
+| [Regex101](https://regex101.com/) | 在线测试正则表达式 | `正则` |
+| [SassMeister](https://www.sassmeister.com/) | Sass在线编译，就是网站做的有点少女。。 | `Sass`、`编译` |
+| [ShieldsIO](https://shields.io/) | 提供了很多用于Github、Wordpress的徽章，拥有多种定制化功能 | `徽章` |
+| [SSL Labs](https://www.ssllabs.com/ssltest/analyze.html) | 对SSL Web服务器进行深入分析，不过耗时较长 | `Web`、`服务器分析` |
+| [SSL在线工具](http://www.ssleye.com/) | 支持15种对称加密算法在线校验、公私钥对的生成、PKCS1、PKCS8相互转换、CSR生成&查看、证书查看等等功能 | `SSL` |
+| [TablesGenerator](http://www.tablesgenerator.com/) | 在线可视化生成LateX、Markdown、HTML表格 | `表格` |
+| [Toolfk在线工具箱](https://www.toolfk.com/) | 一款程序员工具箱，包含几十个实用的工具。 | `工具集合` |
+| [渐变层生成器](https://codepen.io/pissang/full/geajpX) | 直接用鼠标拖拽就可以调整渐变层的各种参数，然后可以导出为svg格式。 | `渐变` |
+| [缓动函数速查表](https://easings.net/) | 形象地介绍了各种缓动函数，而且开源 | `缓动函数` |
+| [美图前端动画库](http://f2er.meitu.com/animastore/) | 美图的前端团队制作的动画库，收集了一些简单实用的动画，可以直接复制代码 | `动画` |
