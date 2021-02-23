@@ -101,6 +101,21 @@
             "title": "个人博客",
             "list": [
                 {
+                    "desc": "目前专注前端技术，对图形学也有一些研究",
+                    "url": "https://supercodepower.com/",
+                    "name": "卤蛋实验室"
+                },
+                {
+                    "desc": "某前端大牛的博客，网站风格很好，文章质量也很高，主要是 React 以及 CSS 相关的",
+                    "url": "https://www.joshwcomeau.com/",
+                    "name": "Josh W Comeau"
+                },
+                {
+                    "desc": "《Javascript 高级程序设计》以及各种前端书籍译者李松峰老师的博客",
+                    "url": "https://lisongfeng.cn/",
+                    "name": "为之漫笔"
+                },
+                {
                     "desc": "作者的技术栈非常广泛，博客的内容也是丰富多样",
                     "url": "https://www.netnr.com/",
                     "name": "NET牛人"
@@ -526,11 +541,6 @@
                     "name": "Aquatilis Expedition"
                 },
                 {
-                    "desc": "通过点击手指添加不同乐器与和弦",
-                    "url": "http://www.basics09.de/",
-                    "name": "Basics09"
-                },
-                {
                     "desc": "一段关于Ben来历的视频，营造出一个很酷的场景。它采用了很另类的视觉设计",
                     "url": "http://benthebodyguard.com/",
                     "name": "Ben the Bodyguard"
@@ -676,6 +686,11 @@
             "title": "值得收藏",
             "list": [
                 {
+                    "desc": "一个公益网站，收集了唐诗 57612 首，宋诗 254248 首，宋词 21053 首，元曲 11057 首，在 PC 和移动端上都有很好地阅读体验",
+                    "url": "https://hz.xusenlin.com/",
+                    "name": "汉字之美"
+                },
+                {
                     "desc": "今日热榜提供各站热榜聚合：微信、今日头条、百度、知乎、V2EX、微博、贴吧、豆瓣、天涯、虎扑、Github、抖音...追踪全网热点、简单高效阅读。",
                     "url": "https://tophub.today/",
                     "name": "今日热榜"
@@ -785,6 +800,12 @@
         {
             "title": "创意十足",
             "list": [
+
+                {
+                    "desc": "收集了很多酷酷的个人网站，多为设计师的个人博客，都很有创意，特效满满",
+                    "url": "http://www.c945.com/classlist/collect6_default.html",
+                    "name": "PERSONAL酷站"
+                },
                 {
                     "desc": "权力的游戏3d地图导览",
                     "url": "https://alex2wong.github.io/Game-of-Throne-Map/index.html",
@@ -1256,6 +1277,61 @@
             "title": "在线工具",
             "list": [
                 {
+                    "desc": "在线生成 urlify.cn 短链",
+                    "url": "https://urlify.cn/",
+                    "name": "Urlify 短链接"
+                },
+                {
+                    "desc": "一个免费的、基于 Web 的字体在线设计网站",
+                    "url": "http://www.glyphrstudio.com/",
+                    "name": "Glyphr Studio"
+                },
+                {
+                    "desc": "一个好玩搞笑的在线工具网站, 舔狗日记, 舔狗日记一键生成, 开发工具, 每日一文, 二维码生成, JSON格式化, 搞笑",
+                    "url": "https://wangpinpin.com/",
+                    "name": "小破站"
+                },
+                {
+                    "desc": "可以免费生成 sourl.cn 域名的短链接",
+                    "url": "https://xiaomark.com/",
+                    "name": "小码短链接"
+                },
+                {
+                    "desc": "功能很简单，就是展示一个网页时钟",
+                    "url": "http://image.shengxinjing.cn/clock/",
+                    "name": "网页时钟"
+                },
+                {
+                    "desc": "创客贴,极简好用的平面设计作图软件,在线图片编辑器,免费使用.提供免费设计模板，有海报、名片、公众号图片、PPT、邀请函等65个场景模板,一键稿定设计印刷",
+                    "url": "https://www.chuangkit.com/",
+                    "name": "创可贴"
+                },
+                {
+                    "desc": "365编辑器是微梦传媒旗下的一款微信编辑器,拥有海量正版素材、模板,动图图库,提供文章一键排版,微信图文美化和公众号内容编辑功能,支持实时预览,一键秒刷,多平台一键同步,实现新媒体编辑的多样化内容运营",
+                    "url": "http://www.365editor.com/",
+                    "name": "365编辑器"
+                },
+                {
+                    "desc": "在线生成各种表情包，提供了很多模板，同时可进行文字编辑和配置",
+                    "url": "https://sorry.xuty.cc/panta/",
+                    "name": "表情锅"
+                },
+                {
+                    "desc": "Youtube、Facebook、Twitter 等 900 多家网站视频下载器，同时支持各种清晰度，还有浏览器插件可以使用",
+                    "url": "https://youtube4kdownloader.com/zh/",
+                    "name": "Youtube 4K Downloader"
+                },
+                {
+                    "desc": "一款帮助摄影师完成即时影像交付和社交媒体传播的云摄影工具，是一款“能赚钱的云摄影工具”。 通过photoplus，摄影师一人即可完成拍摄上传、选图修图、交付分享等工作，photoplus目前已被广泛应用于各种活动赛事及个人写真、婚礼跟拍、儿童摄影等拍摄场景。",
+                    "url": "https://www.photoplus.cn/",
+                    "name": "photoplus"
+                },
+                {
+                    "desc": "将吉他和弦结果可视化展示，具体原理见：https://juejin.im/post/6844903633012817927",
+                    "url": "https://youngdro.github.io/guitarChord/index.html",
+                    "name": "吉他和弦可视化"
+                },
+                {
                     "desc": "Rive是一个实时的交互式设计工具，它允许您设计、动画并将您的资产集成到任何平台中，这要归功于我们的开源运行时。",
                     "url": "https://beta.rive.app/",
                     "name": "Rive"
@@ -1599,11 +1675,6 @@
                     "desc": "一个通过html5就可以进行绘画的在线画板",
                     "url": "http://hotu.co/hua/",
                     "name": "html5在线画板"
-                },
-                {
-                    "desc": "免费的短链服务，可以将长链接转换为短链",
-                    "url": "http://LinkFox.io",
-                    "name": "https://linkfox.io/"
                 },
                 {
                     "desc": "支持抖音、快手、微视等视频无水印下载",
@@ -2310,6 +2381,16 @@
             "title": "炫酷特效",
             "list": [
                 {
+                    "desc": "可以在线预览各种 CSS 动画，并进行组合和代码查看",
+                    "url": "https://animista.net/play/basic",
+                    "name": "Animista"
+                },
+                {
+                    "desc": "日本某著名摄影家的个人网站，站点非常炫酷",
+                    "url": "https://hajimewatanabe.jp/portfolio/",
+                    "name": "HAJIME WATANABE"
+                },
+                {
                     "desc": "利用WebGL实现的鼠标滑动特效",
                     "url": "https://paveldogreat.github.io/WebGL-Fluid-Simulation/",
                     "name": "WebGL-Fluid-Simulation"
@@ -2460,6 +2541,11 @@
             "title": "电子书",
             "list": [
                 {
+                    "desc": "可以搜索电子书，主要是自然科学和工程方面的书籍",
+                    "url": "http://libgen.rs/",
+                    "name": "Library Genesis"
+                },
+                {
                     "desc": "bookset精品电子书免费下载，分享的免费电子书格式有mobi，epub，azw3等格式，并根据豆瓣评分排序，提供的电子书均为精品，有得到，喜马拉雅，微信读书，知乎等推荐书籍",
                     "url": "https://bookset.me/",
                     "name": "bookset"
@@ -2514,6 +2600,11 @@
         {
             "title": "社区",
             "list": [
+                {
+                    "desc": "京东零售官方设计共享平台",
+                    "url": "https://jelly.jd.com/",
+                    "name": "JDR Design"
+                },
                 {
                     "desc": "樱花动漫拥有上万集高清晰画质的在线动漫，观看完全免费、无须注册、高速播放、更新及时的专业在线樱花动漫站，我们致力为所有动漫迷们提供最好看的动漫。",
                     "url": "http://www.yhdm.tv/",
@@ -2654,6 +2745,16 @@
         {
             "title": "素材下载",
             "list": [
+                {
+                    "desc": "可以搜索各种类型的壁纸或图片和摄影作品",
+                    "url": "https://alphacoders.com/",
+                    "name": "Alpha Coders"
+                },
+                {
+                    "desc": "图标库集合，收集了各种各样的图标，提供各种格式的下载",
+                    "url": "https://icones.js.org/",
+                    "name": "Icônes"
+                },
                 {
                     "desc": "3PNG网（3png.com）是国内专注高清png元素免抠图片素材库！专注提供漂浮、装饰、卡通、促销、节日、艺术字、图标、动物、植物、边框、PPT、人物、城市地标、标徽LOGO等免费的png图片和素材，从此无需抠图，百万精品高清png图片免费下载。",
                     "url": "http://3png.com/",
@@ -2860,7 +2961,7 @@
                     "name": "UI Moverment"
                 },
                 {
-                    "desc": "不断更新各种免费的SVG素材，可以免费下载",
+                    "desc": "不断更新各种免费的SVG素材，可以免费下载，可用写文章插图",
                     "url": "https://undraw.co/",
                     "name": "unDraw"
                 },
@@ -3110,6 +3211,11 @@
             "title": "资源下载",
             "list": [
                 {
+                    "desc": "提供了各种类型的 H5 模板，可以在线制作",
+                    "url": "https://h5.bce.baidu.com/store",
+                    "name": "百度 H5 模板商店"
+                },
+                {
                     "desc": "提供了各种类型不同尺寸的壁纸，来源是 360 提供的壁纸",
                     "url": "https://ss.netnr.com/wallpaper",
                     "name": "Netnr 高清壁纸"
@@ -3274,6 +3380,36 @@
         {
             "title": "边学边玩",
             "list": [
+                {
+                    "desc": "有一系列的目标，通过尽可能少的 css 代码完成目标获得分数，还有一个玩家排行榜",
+                    "url": "https://cssbattle.dev/",
+                    "name": "CSS Battle"
+                },
+                {
+                    "desc": "通过 grid 布局浇灌胡萝卜园",
+                    "url": "https://codepip.com/games/grid-garden/",
+                    "name": "Grid Garden"
+                },
+                {
+                    "desc": "练习 CSS 选择器的小游戏",
+                    "url": "https://flukeout.github.io/",
+                    "name": "CSS Diner"
+                },
+                {
+                    "desc": "一个简单的射击游戏，可以借此学习 flex 布局中的各个属性，缺点是需要注册账号以及对话太长",
+                    "url": "https://mastery.games/flexboxzombies/",
+                    "name": "Flexbox Zombies"
+                },
+                {
+                    "desc": "通过 CSS 定位帮助青蛙找到树叶",
+                    "url": "http://flexboxfroggy.com/",
+                    "name": "Flexbox Froggy"
+                },
+                {
+                    "desc": "一个塔防游戏，不过你的塔需要用 CSS 进行定位",
+                    "url": "http://www.flexboxdefense.com/",
+                    "name": "Flexbox Defense"
+                },
                 {
                     "desc": "看得见的统计概率入门，通过可视化的方式阐释统计概率相关知识",
                     "url": "https://seeing-theory.brown.edu/cn.html",
@@ -3539,6 +3675,41 @@
             "title": "程序员工具",
             "list": [
                 {
+                    "desc": "中国第一家公有云科创板上市公司，专注于提供可靠的企业级云服务，包括云服务器、云主机、云数据库、混合云、CDN、人工智能等服务。",
+                    "url": "https://www.ucloud.cn/",
+                    "name": "优刻得"
+                },
+                {
+                    "desc": "Firebase 的开源替代品，可以非常方便地创建自己的应用，提供非常方便的 API 和数据库",
+                    "url": "https://supabase.io/",
+                    "name": "Supabase"
+                },
+                {
+                    "desc": "总结了如何用 JS 操作 Dom 的各种方法",
+                    "url": "https://htmldom.dev/",
+                    "name": "HTML DOM"
+                },
+                {
+                    "desc": "Javascript 正则表达式可视化工具",
+                    "url": "https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24",
+                    "name": "Regulex"
+                },
+                {
+                    "desc": "可以方便地共享源代码的漂亮图像，支持多项配置和多种模板，可以在线编辑，所见即所得",
+                    "url": "https://codeimg.io/",
+                    "name": "Codeimg.io"
+                },
+                {
+                    "desc": "只需要导入 JSON 就可以预览 lottie 动画效果，还可以扫码在手机上预览，不过只支持没有图片的动画 JSON",
+                    "url": "https://lottiefiles.com/preview",
+                    "name": "lottie 在线预览"
+                },
+                {
+                    "desc": "可以在线加密，包括多种算法：md2、md4、md5、base64、rsa、sha1、sha2、sha256 等等",
+                    "url": "https://www.toolnb.com/tools/md2.html",
+                    "name": "爱资料工具-加密"
+                },
+                {
                     "desc": "免费申请 SSL 证书",
                     "url": "https://www.sslforfree.com/",
                     "name": "SSL For Free"
@@ -3727,6 +3898,26 @@
                     "desc": "美图的前端团队制作的动画库，收集了一些简单实用的动画，可以直接复制代码",
                     "url": "http://f2er.meitu.com/animastore/",
                     "name": "美图前端动画库"
+                }
+            ]
+        },
+        {
+            "title": "图床",
+            "list": [
+                {
+                    "desc": "免费的图片托管平台，不过文件大小最大支持 5MB",
+                    "url": "https://sm.ms/",
+                    "name": "SM.MS"
+                },
+                {
+                    "desc": "一个免费提供存储图片能力的平台",
+                    "url": "https://imgkr.com/",
+                    "name": "图壳"
+                },
+                {
+                    "desc": "路过图床, 免费公共图床, 提供图片上传和图片外链服务, 原图保存, 全球CDN加速.",
+                    "url": "https://imgchr.com/",
+                    "name": "路过图床"
                 }
             ]
         }
