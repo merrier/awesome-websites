@@ -101,6 +101,56 @@
             "title": "个人博客",
             "list": [
                 {
+                    "desc": "专注前端和实践经验",
+                    "url": "https://blog.edeity.me/",
+                    "name": "Edeity's Blog"
+                },
+                {
+                    "desc": "前端精华、前端高级进阶、让前端不枯燥的有趣技巧分享。",
+                    "url": "https://king-hcj.github.io/",
+                    "name": "独钓寒江雪"
+                },
+                {
+                    "desc": "生产力维基 - 一个关注时间管理、知识管理、目标管理、项目管理、精力管理和个人效能的播客",
+                    "url": "https://productivity.wiki/",
+                    "name": "生产力维基"
+                },
+                {
+                    "desc": "多为前端、随笔相关文章，文章数量不少",
+                    "url": "https://maomao.ink/",
+                    "name": "毛毛 - 毛大姑娘 的 后花园"
+                },
+                {
+                    "desc": "西秦公子博客分享了白宦成在互联网上的思考，一切关于技术、效率、工作、实践的内容都会分享在这里，博客大概可以保证周更。如果你对于这些思考感兴趣，欢迎你通过各种方式订阅博客。",
+                    "url": "https://www.ixiqin.com/",
+                    "name": "西秦公子"
+                },
+                {
+                    "desc": "有个耿直小哥，不上班，边学编程边开发独立应用。 从零基础到第一个应用问世花了1.5个月，应用每个月能为他带来几百刀收入。 他一边旅游一边开发新应用，到今年3月，他的月收入达到了1w刀 你喜欢这种生活方式吗？ 为啥说他耿直，因为他把每个月营收都记录下来，分享到个人网站",
+                    "url": "https://www.andreyazimov.com/",
+                    "name": "Andrey Azimov"
+                },
+                {
+                    "desc": "一个字节大佬的个人博客，大部分都是英文文章，可以用来学习英文",
+                    "url": "https://yizhiyue.me/",
+                    "name": "纸岳"
+                },
+                {
+                    "desc": "一个字节大佬的个人博客，多为前端和随笔",
+                    "url": "https://tomotoes.com/blog/",
+                    "name": "一个坏掉的番茄"
+                },
+                {
+                    "desc": "文章数量比较少，但是二次元主题比较好看",
+                    "url": "https://www.lavenderdh.cn/",
+                    "name": "Lavender's Blog"
+                },
+                {
+                    "desc": "字节跳动一个前端工程师的个人站点，之前是建筑设计师",
+                    "url": "https://studioo.cn/",
+                    "name": "studioo.cn"
+                },
+                {
                     "desc": "目前专注前端技术，对图形学也有一些研究",
                     "url": "https://supercodepower.com/",
                     "name": "卤蛋实验室"
@@ -660,11 +710,7 @@
                     "url": "http://www.sanyachloe.com/",
                     "name": "克洛伊摄影"
                 },
-                {
-                    "desc": "创造狮，一个创意工作者的导航，专注分享正版优质设计、前端、产品、运营的书签导航",
-                    "url": "http://chuangzaoshi.com/",
-                    "name": "创造狮"
-                },
+
                 {
                     "desc": "包图网的内容包括图标图片，图标素材，图标模板，图标设计等",
                     "url": "https://ibaotu.com/",
@@ -685,6 +731,21 @@
         {
             "title": "值得收藏",
             "list": [
+                {
+                    "desc": "书签地球，中国首家浏览器书签共享平台。提供浏览器书签分享、在线制作、下载等，让书签动起来，全国最好用的浏览器书签共享平台",
+                    "url": "https://www.bookmarkearth.com/",
+                    "name": "书签地球"
+                },
+                {
+                    "desc": "热点聚合，可以在这里看到各个站点的热点内容，百度、微博、微信、抖音、B 站等等应有尽有",
+                    "url": "https://make.mk/",
+                    "name": "MAKE"
+                },
+                {
+                    "desc": "每天推荐一篇短文，也可以自己随机查看",
+                    "url": "https://meiriyiwen.com/",
+                    "name": "每日一文"
+                },
                 {
                     "desc": "一个公益网站，收集了唐诗 57612 首，宋诗 254248 首，宋词 21053 首，元曲 11057 首，在 PC 和移动端上都有很好地阅读体验",
                     "url": "https://hz.xusenlin.com/",
@@ -800,7 +861,11 @@
         {
             "title": "创意十足",
             "list": [
-
+                {
+                    "desc": "在线玩儿红警，还是当年那个配方吗？",
+                    "url": "https://game.chronodivide.com/",
+                    "name": "Red Alert 2: Chrono Divide"
+                },
                 {
                     "desc": "收集了很多酷酷的个人网站，多为设计师的个人博客，都很有创意，特效满满",
                     "url": "http://www.c945.com/classlist/collect6_default.html",
@@ -1222,6 +1287,26 @@
             "title": "图标库",
             "list": [
                 {
+                    "desc": "Emoji code points and example glyphs using web fonts, sprites and native OS representation of Emoji characters",
+                    "url": "https://apps.timwhitlock.info/emoji/tables/unicode#",
+                    "name": "Emoji unicode characters for use on the web"
+                },
+                {
+                    "desc": "提供了很多图标，支持搜索，同时有 Outline、Filled、Sharp 三种类型",
+                    "url": "https://ionic.io/ionicons",
+                    "name": "Ionicons"
+                },
+                {
+                    "desc": "The emoji search engine. A fast emoji search experience with options to browse every emoji by name, category, or platform.",
+                    "url": "https://emojipedia.org/",
+                    "name": "Emojipedia"
+                },
+                {
+                    "desc": "Copy and paste every emoji with 👍 no apps required. 😊🥺😉😍😘😚😜😂😝😳😁😣😢😭😰🥰",
+                    "url": "https://getemoji.com/",
+                    "name": "Get Emoji"
+                },
+                {
                     "desc": "是一个免费搜索图标的搜索引擎站点，国内非常不错的搜索图标的站点之一，收录了超过40万个精美PNG、ICO、YCNS图标，内容非常丰富，提供中文、英文、繁体中文语言界面。",
                     "url": "http://www.easyicon.net/",
                     "name": "easyicon"
@@ -1276,6 +1361,51 @@
         {
             "title": "在线工具",
             "list": [
+                {
+                    "desc": "通过一个链接返回一张简单的占位图，可以指定尺寸",
+                    "url": "https://placeholder.com/",
+                    "name": "Placeholder.com"
+                },
+                {
+                    "desc": "可以生成非常简单的背景 + 文字类型的图片，支持自定义文本、背景颜色和尺寸",
+                    "url": "https://dummyimage.com/",
+                    "name": "Dynamic Dummy Image Generator"
+                },
+                {
+                    "desc": "通过一个链接返回随机图片，同时也支持通过简单的 url query 对图片进行各种处理，图片均来自 Unsplash",
+                    "url": "https://picsum.phot",
+                    "name": "Lorem Picsum"
+                },
+                {
+                    "desc": "函数图形绘制器（绘图工具）绘制给定函数的图像。多个函数分别用不同颜色绘出。函数之间请用逗号，X值与Y值取值范围分隔。输入完毕后请按“绘制图形”按钮。图形计算器允许使用图形窗格下面的控制按钮移动、缩放和居中图形。您也可以使用鼠标拖动来移...",
+                    "url": "https://zh.numberempire.com/graphingcalculator.php?functions=sin(x*2)&xmin=0.002&xmax=5&ymin=-1.5&ymax=1.5&var=x",
+                    "name": "函数图像绘制工具"
+                },
+                {
+                    "desc": "国内最专业最权威的实时网站测速、服务器监控、网络监控、IDC质量评测、PING,DNS,HTTP,CDN测试网站速度监控，遍及国内各省和国外的监测点，包括电信、网通、联通、移动、长城宽带、教育网等线路，测试网站在全国各地和海外的打开速度，全面的报表功能、对比功能、地图展示、柱型图展示等专业测速网站 ",
+                    "url": "https://www.17ce.com/",
+                    "name": "17ce"
+                },
+                {
+                    "desc": "选择一张图片并消除背景 - 100% 全自动 - 仅用 5 秒钟 - 无需点击 - 而且免费。",
+                    "url": "https://www.remove.bg/zh/upload",
+                    "name": "remove.bg"
+                },
+                {
+                    "desc": "Create Your Own @font-face Kits by uploading the fonts you want to use.",
+                    "url": "https://www.fontsquirrel.com/tools/webfont-generator",
+                    "name": "Font Squirrel"
+                },
+                {
+                    "desc": "在线使用 PS 提供的能力，并在线进行修改，支持 PSD, AI 和 Sketch",
+                    "url": "https://www.photopea.com/",
+                    "name": "Photopea"
+                },
+                {
+                    "desc": "在线制作二次元头像，非常简单有趣",
+                    "url": "https://picrew.me/image_maker/625876",
+                    "name": "Picrew"
+                },
                 {
                     "desc": "在线生成 urlify.cn 短链",
                     "url": "https://urlify.cn/",
@@ -2216,6 +2346,31 @@
             "title": "官方网站",
             "list": [
                 {
+                    "desc": "罗布乐思让每个人都可以自由想象、创造，在这个由全球开发者共同打造的社区里，你可以和小伙伴探索数百万种沉浸式的 3D 体验。",
+                    "url": "https://roblox.cn/",
+                    "name": "罗布乐思"
+                },
+                {
+                    "desc": "梳理了各个年份前端领域的 TopN，比如最受欢迎项目，最受欢迎 NodeJS 项目，最受欢迎构建工具等等",
+                    "url": "https://risingstars.js.org/2020/en",
+                    "name": "bestofjs"
+                },
+                {
+                    "desc": "Webflow empowers web designers to build professional, responsive, and custom websites in a completely visual canvas with no code. Try Webflow for free!",
+                    "url": "https://webflow.com/",
+                    "name": "Webflow"
+                },
+                {
+                    "desc": "Designed for the serverless with per-request pricing and Redis API on durable storage.",
+                    "url": "https://upstash.com/",
+                    "name": "Upstash"
+                },
+                {
+                    "desc": "用 AI 梳理互联网的知识引擎 - Magi 通过机器学习将互联网上的海量信息构建成可解析、可检索、可溯源的结构化知识体系。",
+                    "url": "https://magi.com/",
+                    "name": "Magi"
+                },
+                {
                     "desc": "FEX_FEX_做最专业的前端_百度前端研发部_百度前端团队Blog",
                     "url": "http://fex.baidu.com/",
                     "name": "百度 FEX"
@@ -2380,6 +2535,22 @@
         {
             "title": "炫酷特效",
             "list": [
+
+                {
+                    "desc": "加入西瓜中视频伙伴计划(Medium Video Partner - MVP计划)，发布原创横屏视频，可享受字节跳动下西瓜视频、抖音、今日头条三大平台的创作收益！西瓜视频诚邀你加入中视频伙伴计划，与世界分享你的热爱与见解！",
+                    "url": "https://studio.ixigua.com/mvp",
+                    "name": "西瓜视频-中视频伙伴计划"
+                },
+                {
+                    "desc": "秉承致力于拯救品牌的力量为核心,结合创意与情感表现多维度理念,为您提供高端品牌网站建设、网页设计、宣传片制作等服务,助力企业实现互联网转型。热线:400-861-0574",
+                    "url": "https://www.sansg.com/",
+                    "name": "三盛网络"
+                },
+                {
+                    "desc": "Daniel Spatzek is an Austrian webdesigner, creative developer and art director that creates websites, digital design, brand identities and print design.",
+                    "url": "https://www.danielspatzek.com/degenesis",
+                    "name": "dnlsptzk"
+                },
                 {
                     "desc": "可以在线预览各种 CSS 动画，并进行组合和代码查看",
                     "url": "https://animista.net/play/basic",
@@ -2600,6 +2771,36 @@
         {
             "title": "社区",
             "list": [
+                {
+                    "desc": "新趣集是一个产品发现社区，发现最新的网站，移动 App和技术产品",
+                    "url": "https://xinquji.com/",
+                    "name": "新趣集"
+                },
+                {
+                    "desc": "Read programming news from the most popular programming websites in one place.",
+                    "url": "https://devurls.com/",
+                    "name": "DevURLs"
+                },
+                {
+                    "desc": "Dear developer, our mission is to serve all the best programming news you’ll ever need.",
+                    "url": "https://app.daily.dev/popular",
+                    "name": "daily.dev"
+                },
+                {
+                    "desc": "标志情报局24小时提供全球最新最全的新标志、新LOGO、标志新闻、标志资讯、LOGO新闻、LOGO设计欣赏、标志揭晓、国外LOGO设计欣赏等情报资讯。",
+                    "url": "https://www.logonews.cn/",
+                    "name": "标志情报局"
+                },
+                {
+                    "desc": "备战技术面试？力扣提供海量技术面试资源，帮助你高效提升编程技能，轻松拿下世界 IT 名企 Dream Offer。",
+                    "url": "https://leetcode-cn.com/?utm_source=LCUS&utm_medium=ip_redirect&utm_campaign=transfer2china",
+                    "name": "力扣（LeetCode）官网"
+                },
+                {
+                    "desc": "Anime Data 将汇总并分析处理动画相关的数据，以图表的形式可视化地为您展现。",
+                    "url": "https://anime-data.com/",
+                    "name": "动画数据 | Anime Data"
+                },
                 {
                     "desc": "京东零售官方设计共享平台",
                     "url": "https://jelly.jd.com/",
@@ -3096,6 +3297,51 @@
             "title": "网站导航",
             "list": [
                 {
+                    "desc": "不止是有北邮校园相关站点，同时还有购物、工具、社交、学习、娱乐等站点，支持个性化配置",
+                    "url": "https://byr-navi.com/",
+                    "name": "北邮人导航"
+                },
+                {
+                    "desc": "设计师网址导航专注分享优秀设计网站、免费无版权限制可商用的高品质素材，设计教程、尺寸规范、配色方案、设计素材和灵感",
+                    "url": "http://hao.shejidaren.com/index.html",
+                    "name": "设计导航"
+                },
+                {
+                    "desc": "探索丨让每个人都能自由地探索互联网·为学术探索而生",
+                    "url": "https://298.life/",
+                    "name": "安逸导航"
+                },
+                {
+                    "desc": "致力打造好用的视频创作导航，简视频精选及整理最优秀的视频自媒体、动效设计等网站,收录网站包括视频素材、图片素材、制作工具、字幕配音、音乐素材、文案脚本、教程文章、实时热榜、数据分析等等。拥有智能推荐、强大的站内搜索、账号收藏云同步、自定义站点、只为创意而生。视频创作就上简视频！",
+                    "url": "https://www.aewz.com/",
+                    "name": "简视频"
+                },
+                {
+                    "desc": "创造狮，一个创意工作者的导航，专注分享正版优质设计、前端、产品、运营的书签导航",
+                    "url": "http://chuangzaoshi.com/",
+                    "name": "创造狮"
+                },
+                {
+                    "desc": "考拉新媒体",
+                    "url": "https://www.kaolamedia.com/",
+                    "name": "新媒体导航网站，专注于新媒体相关的网站，排版工具、数据分析平台、协作工具等等"
+                },
+                {
+                    "desc": "书享家",
+                    "url": "http://shuxiangjia.cn/",
+                    "name": "书籍资源导航网站，有用于搜索和支持书籍下载、古籍、漫画等各种和书籍相关的网站"
+                },
+                {
+                    "desc": "搜图导航",
+                    "url": "https://www.91sotu.com/",
+                    "name": "图片资源网站，大多都是免费无版权的，入口处还有中英文标注，方便选择，当然也有实用的图片处理网站，还有和设计教程相关的文章，图标下载，色彩搭配等等"
+                },
+                {
+                    "desc": "设计师导航",
+                    "url": "https://www.niudana.com/",
+                    "name": "牛大拿设计师导航"
+                },
+                {
                     "desc": "优设网站导航为设计师提供ps教程、UI设计、素材下载、高清图库、配色方案、用户体验、网页设计等全方位设计师网站导航指引。每周更新及时，是优秀设计联盟（SDC）旗下最实用、最专业、最全面、最好用的设计师导航！",
                     "url": "http://hao.uisdc.com/",
                     "name": "优设导航"
@@ -3210,6 +3456,71 @@
         {
             "title": "资源下载",
             "list": [
+                {
+                    "desc": "各种不同类型电脑壁纸下载，支持各种类型排序，同时支持分类、尺寸和标签筛选",
+                    "url": "https://bz.zzzmh.cn/index",
+                    "name": "极简壁纸"
+                },
+                {
+                    "desc": "一个好用的电影字幕搜索引擎，轻松搜索台词出现的影片和时间点，是视频创作者的必备工具，是帮助英语学习的利器。",
+                    "url": "http://33.agilestudio.cn/",
+                    "name": "33台词"
+                },
+                {
+                    "desc": "网虫汇,网虫汇网址大全，在线观看，片源更新最快的网站，每周七天，天天有新片看",
+                    "url": "http://www.wangchonghui.com/share/0/319/rc",
+                    "name": "小网虫"
+                },
+                {
+                    "desc": "Chrome热门插件下载,谷歌Chrome浏览器的扩展插件下载安装方法和教程,免费下载和安装谷歌浏览器热门插件,和谷歌浏览器插件相关资讯,尽在扩展迷(extfans.com).",
+                    "url": "https://www.extfans.com/hot/",
+                    "name": "Extfans"
+                },
+                {
+                    "desc": "迷思爱聚合搜索,优聚集综合搜索导航，包括：懒盘搜索，蓝奏云搜索，百度网盘聚合搜索，磁力搜索聚合，音乐聚合收听，电影聚合收看，学术网站聚合搜索，一切尽在迷思爱聚合导航。",
+                    "url": "https://lzpan.com/#",
+                    "name": "懒盘搜索"
+                },
+                {
+                    "desc": "可以找到各种情绪类型的音乐、各种剪辑音效，可以免费下载",
+                    "url": "https://www.tosound.com/",
+                    "name": "淘声"
+                },
+                {
+                    "desc": "可以找到各种免费可商用的字体",
+                    "url": "https://www.qiuziti.com/",
+                    "name": "求字体"
+                },
+                {
+                    "desc": "插图资源网站，包含各种简洁清爽的插图，可以免费下载使用，支持 SVG 和 PNG 格式，同时支持更改其他颜色，当然也支持搜索",
+                    "url": "https://undraw.co/illustrations",
+                    "name": "illustrations"
+                },
+                {
+                    "desc": "表情包资源网站，可以查看推荐的表情包，也有一整套的表情包，还可以 DIY，当然支持搜索",
+                    "url": "https://www.dbbqb.com/",
+                    "name": "逗比拯救世界"
+                },
+                {
+                    "desc": "电影查找网站，将电影进行了分类，可以看到某部电影在不同平台的收付费情况，还可以查看影评，同时还包含了相关电影的解说视频，当然也支持按照标签、时间、关键字来进行搜索；还可以看各种电视直播",
+                    "url": "https://www.mvcat.com/",
+                    "name": "MVCAT"
+                },
+                {
+                    "desc": "可以畅快使用浏览器小插件，包含各种浏览器插件",
+                    "url": "https://chrome.zzzmh.cn/#index",
+                    "name": "极简插件"
+                },
+                {
+                    "desc": "网盘资源搜索网站，可以搜索学习资源、考研相关资料",
+                    "url": "https://www.kolsou.com/",
+                    "name": "酷搜"
+                },
+                {
+                    "desc": "蜜柑计划：新一代的动漫下载站",
+                    "url": "https://mikanani.me/",
+                    "name": "蜜柑计划 - Mikan Project"
+                },
                 {
                     "desc": "提供了各种类型的 H5 模板，可以在线制作",
                     "url": "https://h5.bce.baidu.com/store",
@@ -3486,6 +3797,16 @@
             "title": "配色方案",
             "list": [
                 {
+                    "desc": "使用色輪或影像建立調色盤，或瀏覽 Adobe Color 社群中的數千個顏色組合。",
+                    "url": "https://color.adobe.com/zh/create/color-wheel/",
+                    "name": "Adobe Color"
+                },
+                {
+                    "desc": "配色卡提供360种渐变色搭配，使用渐变色卡的方式提供渐变色组合搭配效果",
+                    "url": "https://peiseka.com/jianbianse.html",
+                    "name": "配色卡"
+                },
+                {
                     "desc": "使用颜色控制盘选择喜欢的样式，然后就可以得到对应的颜色代码",
                     "url": "https://colorsupplyyy.com/app",
                     "name": "Color Supply"
@@ -3674,6 +3995,86 @@
         {
             "title": "程序员工具",
             "list": [
+                {
+                    "desc": "25 道 JS 相关的题目，让你深刻体会到 JS 这门语言是多么的怪异",
+                    "url": "https://jsisweird.com/",
+                    "name": "JS Is Weird"
+                },
+                {
+                    "desc": "可以买梯子",
+                    "url": "https://xn--gmqz83awjh.com/user/profile",
+                    "name": "少数人"
+                },
+                {
+                    "desc": "paste.rs is a simple, no-frills, command-line driven pastebin service powered by the Rocket web framework.",
+                    "url": "https://paste.rs/",
+                    "name": "paste.rs"
+                },
+                {
+                    "desc": "Regular expression tester with syntax highlighting, explanation, cheat sheet for PHP/PCRE, Python, GO, JavaScript, Java. Features a regex quiz & library.",
+                    "url": "https://regex101.com/",
+                    "name": "regex101"
+                },
+                {
+                    "desc": "JSFuck is an esoteric and educational programming style based on the atomic parts of JavaScript. It uses only six different characters to execute code.",
+                    "url": "http://www.jsfuck.com/",
+                    "name": "JSFuck"
+                },
+                {
+                    "desc": "通过一些简单的语法示例尝试让你在很短的时间内入门一门一眼，可以筛选自己国家的语言，目前支持二十多个国家",
+                    "url": "https://learnxinyminutes.com/",
+                    "name": "Learn X in Y Minutes"
+                },
+                {
+                    "desc": "The Component Gallery is a collection of components from the best Design Systems.",
+                    "url": "https://component.gallery/",
+                    "name": "The Component Gallery"
+                },
+                {
+                    "desc": "指定 NPM 包，然后语义化展示 semver version 对应的是哪几个版本，以及如何定义",
+                    "url": "https://semver.npmjs.com/",
+                    "name": "npm semver calculator"
+                },
+                {
+                    "desc": "Turn your code into beautiful images. Choose from a range of syntax colors, hide or show the background, and toggle between a dark and light window.",
+                    "url": "https://ray.so/",
+                    "name": "Ray.so"
+                },
+                {
+                    "desc": "As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile.",
+                    "url": "https://cssgradient.io/",
+                    "name": "CSS Gradient"
+                },
+                {
+                    "desc": "各种语言的 0.1 + 0.2 的结果汇总，只有程序员才懂的快乐",
+                    "url": "https://0.30000000000000004.co",
+                    "name": "Floating Point Math"
+                },
+                {
+                    "desc": "crontab 编辑器，编辑之后可以查看对应的英文解释",
+                    "url": "https://crontab.guru/#0_4_8-14_*_*",
+                    "name": "Crontab.guru"
+                },
+                {
+                    "desc": "在线查看按下的键对应的 KeyCode 是多少",
+                    "url": "https://keycode.info/",
+                    "name": "JavaScript Event KeyCodes"
+                },
+                {
+                    "desc": "Tauri is a framework for building tiny, blazing fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface.",
+                    "url": "https://tauri.studio/en/",
+                    "name": "Tauri Studio"
+                },
+                {
+                    "desc": "Fission is a framework for serverless functions on Kubernetes. Write short-lived functions in any language, and map them to HTTP requests (or other event triggers). Deploy functions instantly with one command. There are no containers to build, and no Docker registries to manage.",
+                    "url": "https://fission.io/",
+                    "name": "Fission"
+                },
+                {
+                    "desc": "A Web Design and Development Podcast with Chris Coyier and Dave Rupert",
+                    "url": "https://shoptalkshow.com/",
+                    "name": "ShopTalk Show"
+                },
                 {
                     "desc": "中国第一家公有云科创板上市公司，专注于提供可靠的企业级云服务，包括云服务器、云主机、云数据库、混合云、CDN、人工智能等服务。",
                     "url": "https://www.ucloud.cn/",
