@@ -1,4 +1,4 @@
-# awesome-websites
+﻿# awesome-websites
 
 总结了一些很实用值得收藏的站点，类型不限，会持续更新
 
@@ -246,6 +246,7 @@
 | [Draw.io](https://www.draw.io/) | 在线云绘图制作平台，可以快速、自由的创建简单的图表，流程图、网页模版构架图、框架图等等 | `流程图` |
 | [Editor.Pho.to](http://editor.pho.to/zh/edit/) | Editor.Pho.to 是一款拥有照片即时编辑工具的在线照片编辑器。添加文本和标签，应用滤镜和特效。裁剪、旋转、调整大小和调整图片。 | `照片编辑`、`滤镜` |
 | [ezyZip](http://www.ezyzip.com/cn.html) | 在线压缩文件。无需安装或上传/下载。在浏览器中运行 | `压缩文件` |
+| [Korelyy](https://korelyy.com) | 隐私优先的在线工具集合站：100+ 免费工具（图片、PDF、单位换算、JSON、生成器等），无需注册，浏览器内运行，支持 6 种语言 | `工具集合`、`多语言`、`隐私` |
 | [favicon.cc](http://www.favicon.cc/) | 这是一个可以将用户的图片转换为ico图片的网站。将图片制作成ico图标并导出。 | `ico` |
 | [FIGMA](https://www.figma.com) | 一款界面设计协作神器，图形设计功能强大、支持多人在线编辑与多人实时评论，用于开会或者研讨非常方便，也可以随意保存历史版本，简直堪称设计界的Google Docs。支持导出jpg、png、svg等多种格式。 | `设计`、`协同` |
 | [FreeSSL.org](https://freessl.cn/) | 一个申请免费HTTPS证书的网站 | `免费证书`、`HTTPS` |
@@ -711,3 +712,4 @@
 | [渐变层生成器](https://codepen.io/pissang/full/geajpX) | 直接用鼠标拖拽就可以调整渐变层的各种参数，然后可以导出为svg格式。 | `渐变` |
 | [缓动函数速查表](https://easings.net/) | 形象地介绍了各种缓动函数，而且开源 | `缓动函数` |
 | [美图前端动画库](http://f2er.meitu.com/animastore/) | 美图的前端团队制作的动画库，收集了一些简单实用的动画，可以直接复制代码 | `动画` |
+
