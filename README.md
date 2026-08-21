@@ -322,6 +322,13 @@
 | [音乐直链搜索](https://music.liuzhijin.cn/) | 刘志进特制多站合一音乐搜索解决方案，可搜索试听网易云音乐、QQ音乐、酷狗音乐、酷我音乐、虾米音乐、百度音乐、一听音乐、咪咕音乐、荔枝FM、蜻蜓FM、喜马拉雅FM、全民K歌、5sing原创翻唱音乐。 | `音乐搜索` |
 | [颜色分析工具](http://color3d.herokuapp.com/) | 上传图片后可以查看像素在LAB、RGB、HSL、HSV中的分布 | `颜色分析` |
 | [颜色码转换](http://www.sioe.cn/yingyong/yanse-rgb-16/) | RGB颜色值与十六进制颜色码转换工具 | `颜色转换` |
+| [Codex Theme Builder](https://codextheme.tools) | 免费的 OpenAI Codex 浏览器主题构建器，支持实时预览和 CSS token 导出 | `主题`、`Codex` |
+| [SkyCOTL Tools](https://skycotl.tools) | Sky 光遇免费攻略与计算器 | `游戏`、`计算器` |
+| [Pressure Washer Fix](https://pressurewasherfix.com) | 高压清洗机常见故障免费排查指南 | `DIY`、`维修` |
+| [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) | 按面积、单价和附加项估算割草费用的免费计算器 | `计算器`、`园艺` |
+| [WattsCalc](https://wattscalc.com) | 家电功耗与电费免费计算器 | `计算器`、`电费` |
+| [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) | 按针数、面料和人工估算刺绣报价的免费计算器 | `计算器`、`刺绣` |
+| [Image to Crochet Pattern](https://imagetocrochetpattern.com) | 将图片转换为钩针图样的免费工具 | `钩针`、`生成器` |
 
 
 ## 在线简历
