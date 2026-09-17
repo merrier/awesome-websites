@@ -330,6 +330,7 @@
 | 站点名称              | 描述         |  标签             |
 |----------------------|------------|-------------------|
 | [Enhancv](https://enhancv.com/) | 在线生成简历 | `简历生成` |
+| [ResumeAI](https://withresumeai.com/) | AI 简历与免费 ATS 检查（每天 3 次匿名 / 10 次免费账号） | `简历生成`、`ATS` |
 | [jerryonlyzrj的简历](http://jerryonlyzrj.com/resume/) |  | `简历` |
 | [Lucy Bain](http://lucybain.com/) | 一个外国人制作的简历，网站风格不入我法眼 | `简历` |
 | [Robby Leonardi](http://www.webhek.com/post/interactive-resume.html) | 超级酷炫的HTML5互动式程序员求职简历 | `求职`、`酷炫`、`互动` |
