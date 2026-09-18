@@ -118,6 +118,7 @@
 | [AiTechYun](http://www.atyun.com/) | 关于AI的各种信息，包括新闻和资源下载，旨在让大家更了解人工智能 | `网站导航`、`资源` |
 | [scikit-learn](http://sklearn.lzjqsdd.com/) | 基于Python语言的机器学习工具，可以很轻松的实现分类、聚类、回归等 | `机器学习`、`Python` |
 | [里米先生](https://blog.limiabc.com/) | wordpress主题，设计师的个人博客，简约大方，创意十足 | `Wordpress`、`设计`、`创意` |
+| [StudyArena](https://studyarena.com) | 学生可免费比较同一问题的三个匿名 AI 回答，投票后查看模型名称（需注册账号） | `人工智能`、`学习工具` |
 
 ## 优秀网站
 
