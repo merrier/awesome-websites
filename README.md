@@ -172,6 +172,7 @@
 | [FFF互动](http://fff.cmiscm.com/) | 各种H5特效，每种特效都有其独特的设计和功能 | `特效` |
 | [Going Home](http://goinghome.302chanwoo.com/) | 一个带有简单交互的故事动画，通过鼠标点击使你融入故事中 | `交互`、`故事`、`动画` |
 | [Grid Garden](https://cssgridgarden.com/) | Grid Garden是Codepip创建的一款寓教于乐的在线网页游戏，游戏共有28关。玩家可以通过过关的方式掌握CSS最新标准CSS Grid。 | `游戏`、`Grid` |
+| [梗鲸](https://ai-meme.cdqyfdbymn.me/) | DeepSeek 蓝色大肥鱼表情包图库：台词梗图持续更新，可下载原图、一键复制直接斗图，附三视图设定集与十几个主题小游戏，免登录免费 | `表情包`、`DeepSeek`、`有趣网站` |
 | [habitica](https://habitica.com/static/home) | 将TodoList游戏化，把你的真实生活当成游戏吧 | `TodoList`、`游戏` |
 | [Heraclos](https://heraclosgame.com/) | 一个在线的用手柄进行的游戏，画面很好看，你控制一个女生进行探索。 | `游戏`、`视觉` |
 | [Hone Hone Clock](http://blog.itmyhome.com/hone_hone_clock/) | 很火的一个人体时钟，可以直接看其源码引用，本质上是用flash实现的 | `时钟`、`flash` |
