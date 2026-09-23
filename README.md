@@ -324,6 +324,8 @@
 | [颜色分析工具](http://color3d.herokuapp.com/) | 上传图片后可以查看像素在LAB、RGB、HSL、HSV中的分布 | `颜色分析` |
 | [颜色码转换](http://www.sioe.cn/yingyong/yanse-rgb-16/) | RGB颜色值与十六进制颜色码转换工具 | `颜色转换` |
 
+| [Gallery Wall Planner](https://gallerywallplanner.com/) | 免费在线画廊墙 / 艺术布局规划工具，支持测量布局、安装方案、模板与楼梯墙方案 | `画廊墙`、`布局规划`、`家居设计`、`在线工具` |
+
 
 ## 在线简历
 
