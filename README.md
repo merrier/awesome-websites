@@ -259,6 +259,7 @@
 | [LightPDF](https://lightpdf.com/zh/) | LightPDF提供在线免费转换、分割、合并、编辑PDF文件服务及PDF相关解决方案。 | `PDF` |
 | [logaster](https://www.logaster.com/) | 在线生成logo，你只需要提供网站名称和网站类型 | `logo` |
 | [LogoMakr](https://logomakr.com/) | 在线设计logo，可以插入不同形状的图形和文字 | `logo` |
+| [Maze Maker](https://kdpbook.io/kdp/maze-maker) | kdpbook.io 的免费迷宫生成器：矩形或圆形迷宫，难度从简单到专家，答案单独一页，可打印、另存为 PDF 或下载 SVG，无需注册（英文界面） | `迷宫`、`打印` |
 | [MP4ToGif](https://coldday.github.io/mp4ToGif/) | 视频转Gif，可以在线添加文字和编辑 | `视频`、`Gif` |
 | [MySSL](https://myssl.com/) | 检测网站的SSL证书是否安全，是否存在漏洞，是否达到SSL行业标准，符合苹果ATS规范，能否通过微信小程序安全要求。同时提供证书格式转换，CSR，证书链，SSL配置生成等工具。 | `SSL` |
 | [NameBeta](https://namebeta.com/) | 共收录 1578 种顶级域名，汇集互联网上 27 家知名域名注册商，每日更新价格信息 | `域名` |
