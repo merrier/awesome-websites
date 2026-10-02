@@ -118,6 +118,7 @@
 | [AiTechYun](http://www.atyun.com/) | 关于AI的各种信息，包括新闻和资源下载，旨在让大家更了解人工智能 | `网站导航`、`资源` |
 | [scikit-learn](http://sklearn.lzjqsdd.com/) | 基于Python语言的机器学习工具，可以很轻松的实现分类、聚类、回归等 | `机器学习`、`Python` |
 | [里米先生](https://blog.limiabc.com/) | wordpress主题，设计师的个人博客，简约大方，创意十足 | `Wordpress`、`设计`、`创意` |
+| [Tesla Wrap Generator](https://teslawrapgenerator.com/) | 一句话或一张照片生成特斯拉 Paint Shop 车衣，按车型年份匹配官方模板，3D 预览后下载 PNG | `AI`、`工具` |
 
 ## 优秀网站
 
