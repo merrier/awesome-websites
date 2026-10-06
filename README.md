@@ -234,6 +234,7 @@
 | [ASCII Generator](http://www.network-science.de/ascii/) | 根据你输入的英文单词，生成相应的字符图形 | `字符图形` |
 | [ATOOL在线工具](http://www.atool.org) | 由华中科技大学一位在校女研究生开发的在线工具集合网站，旨在做出最简单方便、最完整干净、最全面完整的工具网站 | `工具集合` |
 | [Concrete Estimator Hub](https://concreteestimatorhub.com/) | 免费混凝土估算工具，支持板、基础、袋装混凝土、ready-mix 对比、成本检查和报价审核 | `混凝土`、`在线工具`、`计算器` |
+| [NakupSladilcev.si Growth Calculator](https://nakupsladilcev.si/tools/follower-growth) | 免费手动计算达到关注者目标所需的日均和周均净增长，无须注册；界面为斯洛文尼亚语，不读取社交账号数据。 | `计算器`、`在线工具`、`斯洛文尼亚语` |
 | [AYNU音乐实验室](http://mu.aynu.top/) | 免费的在线音乐播放器。收录全网最新无损音乐，提供无损MP3音乐免费下载，免开VIP尽享全网音乐免费播放下载！ | `音乐` |
 | [AZW3在线转换](http://www.zamzar.com/convert/azw3-to-epub/) | 将azw3文件转换成其他格式文件 | `azw3`、`转换` |
 | [Brandmark](http://brandmark.io/) | 免费生成logo，可通过关键词限定范围 | `logo` |
