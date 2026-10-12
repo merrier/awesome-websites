@@ -272,6 +272,7 @@
 | [picdiet](https://www.picdiet.com/) | Picdiet是一款用JavaScript编写而成的图片压缩神器，所有压缩过程都在浏览器中进行，尺寸、数量、大小均无限制，完全免费，缺点是只能压缩jpg格式的图片 | `图片压缩`、`JPG` |
 | [Placeit](https://placeit.net/) | 提供了各种设计P图模板，每个演示用的模板上都附有标准尺寸，你也可以先在PS等软件处理好尺寸再上传，立即生成各种手拿iPhone、iMac，开着Macbook的图片，来演示你设计的静态图效果。 | `设计`、`图片` |
 | [ProcessOn](https://www.processon.com/) | 免费在线作图，同时支持实时协作 | `作图`、`协作` |
+| [QuietTake Noise Remover](https://noiseremover.site/) | 免费浏览器语音降噪工具，使用 RNNoise 在本地处理录音，可试听原音与处理结果并导出 WAV；单文件须同时不超过 50 MB 和 5 分钟，无须账号或上传音频。 | `在线工具`、`音频降噪` |
 | [Screen Sizes](http://screensiz.es/) | 展示了各种机型的尺寸、像素密度和像素比 | `机型`、`像素` |
 | [SM.MS](https://sm.ms/) | 支持多张照片上传，单文件限制 5M 以内。支持 UBB 代码，上传后点 BBCode 即可。 | `图片上传` |
 | [Smallpdf](https://smallpdf.com/) | 非常厉害的一个网站，PDF压缩，PDF转PPT，Word，Excel等等都可以直接通过这个网站实现 | `PDF` |
