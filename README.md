@@ -384,6 +384,7 @@
 | 站点名称              | 描述         |  标签             |
 |----------------------|------------|-------------------|
 | [WebGL-Fluid-Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) | 利用WebGL实现的鼠标滑动特效 | `WebGL` |
+| [3D Solar System Simulator](https://3dsolarsystem.net/) | 浏览器里可交互的 3D 太阳系模拟器（Three.js），可缩放、旋转并查看行星轨道 | `WebGL`、`Three.js`、`天文`、`教育` |
 | [One Plus 7 Pro](https://www.oneplus.com/cn/7pro#/) | 一加手机的官网，从视觉效果上和交互特效上就给人眼前一亮的感觉 | `黑白插画`、`设计` |
 | [Anita](https://www.anita-gelato.com/) | 本款美食类网站，整款设计采用了非常有趣的黑白插画设计风格，极赋视觉吸引力。加之，通过直观的黑白网格，更加直观集中的展示其产品和相关服务，用户体验也是极好。 | `黑白插画`、`设计` |
 | [Bailey Coffee Screamers](https://www.baileyscreamers.com/) | 黑色背景，辅以高清彩色产品图片或视频，能够极大的强调和突出页面产品，提升产品销售量。而作为一款在线咖啡类产品售卖的网站，本网页，就在黑色背景上，展示了各种高清产品图片和视频，轻轻松松将让用户集中于所售卖的产品，从而效的提升用户购买的可能。 | `配色` |
