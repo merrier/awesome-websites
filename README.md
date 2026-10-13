@@ -223,6 +223,7 @@
 | [哇咔工具]](https://www.wakatool.com/maker) | 在线表情包制作器，功能强大，操作简单，素材丰富 | `表情制作` |
 | [Dunnnk]](http://dunnnk.com) | 生成一些在一些设备上产品展示图片，只要上传自己的图片就可以，目前支持iOS相关设备和安卓手机 | `产品展示`、`图片生成` |
 | [比特虫]](http://www.bitbug.net/) | 生成图标ico | `ico生成` |
+| [FaviconDL](https://favicondl.com/) | 免费网站图标提取与下载工具，支持多尺寸 ICO/PNG/SVG，并提供无 key API 与 MCP | `favicon`、`图标`、`在线工具`、`API` |
 | [压缩图](https://www.yasuotu.com/buttonColor) | 在线图片（照片、图标）去底色工具，可以将纯色图片背景色免费去除 | `去底色`、`图片压缩`、`格式转换`、`图片操作` |
 | [Whimsical](https://whimsical.com/) | 在线画协作流程图、线框图、便签和思维导图 | `流程图`、`思维导图` |
 | [t.cn短网址生成器](http://qvni.cn/t.cn/) | 可以将网址转换成t.cn域名的短链 | `短链`、`短网址`、`t.cn` |
