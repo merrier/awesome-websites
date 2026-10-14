@@ -574,6 +574,7 @@
 | [@bosslogic](https://www.instagram.com/bosslogic/) | 这是一位大神，你在网上看到的 90% 的漫威非官方海报都可能出自他手 | `漫威海报` |
 | [AYNU音乐实验室](http://mu.aynu.top/) | 免费的在线音乐播放器。收录全网最新无损音乐，提供无损MP3音乐免费下载，免开VIP尽享全网音乐免费播放下载！ | `音乐播放器`、`音乐下载` |
 | [BD影视](https://www.bdys.co/) | 主要提供丰富的影视资源下载，并且可以在线云播预览，上映之后三个月内发布枪版，三个月之后发布蓝光高清下载 | `影视资源下载` |
+| [BJJGraph](https://bjjgraph.org/) | 巴西柔术学习工具，用交互式图谱连接各个位置与技术，提供闪卡和模拟对练，免费且无需注册，界面为英文。 | `巴西柔术`、`知识图谱` |
 | [BTtwo](http://v.apkgm.top/) | 有很多电影和电视剧，同时提供在线观看 | `电影`、`电视剧`、`在线观看` |
 | [Cheatography](https://www.cheatography.com/) | 这个网站上有超过4000份对照表，包括Linux、MySQL、Vim等等 | `对照表` |
 | [Hello Github](https://hellogithub.com/) | 分享 GitHub 上入门级、有趣的开源项目 | `Github`、`开源项目` |
