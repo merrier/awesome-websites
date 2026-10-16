@@ -693,6 +693,7 @@
 | [BIOMES](https://demo.marpi.pl/biomes/) | 利用WebGL可以随机生成抽象的体素地形 | `WebGL`、`地形` |
 | [Can I use](https://caniuse.com/) | 提供现代Web技术的浏览器支持情况查询 | `Web`、`兼容` |
 | [Carbon](https://carbon.now.sh) | 生成类似 mac 风格的代码图片，用于分享 | `Mac`、`代码` |
+| [CurlShot](https://curlshot.com) | 网页截图 API 和免费在线截图工具：输入网址、HTML 或 Markdown，返回 PNG、JPEG、WebP、PDF 或页面滚动视频，支持整页截图、手机/平板视口和 MCP 服务器；免费套餐每月 100 次 | `截图`、`API`、`HTML转PDF` |
 | [Character Entity Reference Chart](https://dev.w3.org/html5/html-author/charref) | 各种符号的转义字符表 | `转义` |
 | [Choose A License](https://choosealicense.com/) | 根据几个问题为你的开源协议的选择提供建议 | `协议` |
 | [CODELF](https://unbug.github.io/codelf/) | 项目命名神器，可以通过关键词搜索github、gitlab等网站上的项目名称 | `命名` |
