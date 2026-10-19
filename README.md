@@ -241,6 +241,7 @@
 | [Canva](https://www.canva.com/) | 利用 Canva 的拖放功能和布局，可以设计、分享和打印名片、徽标、演示文稿及更多内容。 | `设计`、`分享` |
 | [ClipConverter.cc](https://www.clipconverter.cc/) | 单个Youtube视频下载，支持多种格式、多种清晰度。 | `Youtube` |
 | [Convertio](https://convertio.co/zh/) | Convertio – 在线转换文件的简单工具。支持超过284种不同的文档、图像、电子表格、电子书、文档、演示文稿、音频和视频格式。 | `转换文件` |
+| [Vocal Separator](https://vocalseparator.com/) | 在线人声/伴奏及四轨分离，支持 WAV 下载与本地练习工具；含有限匿名免费额度和可选预付分钟包。 | `人声分离`、`音频` |
 | [Degraeve](https://www.degraeve.com/img2txt.php) | 根据图片生成相应的字符图形 | `字符图形` |
 | [Devhints](https://devhints.io/) | 常用速查表，快速查询各类框架和库的常用方法，很实用 | `速查` |
 | [Diagram](https://webdemo.myscript.com/views/diagram/index.html#/edit) | 手绘图，然后保存成 PPT 的在线服务。 | `手绘`、`PPT` |
