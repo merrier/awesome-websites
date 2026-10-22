@@ -599,6 +599,7 @@
 | [音乐搜索器](https://shenzjd.com/shenzjd/music/) | 多站合一音乐搜索解决方案，可搜索试听网易云音乐、QQ音乐、酷狗音乐、酷我音乐、虾米音乐、百度音乐、一听音乐、咪咕音乐、荔枝FM、蜻蜓FM、喜马拉雅FM、全民K歌、5sing原创翻唱音乐。 | `音乐搜索` |
 | [万象棋谱 WXHub](https://wxq.whatsyour.fun/) | 《王者荣耀》万象棋（自走棋）非官方玩家工具站：阵容编辑器拖拽调站位、英雄/装备/天赋/效果牌图鉴、伤害计算器与快速认卡练习，免注册打开即用。 | `王者荣耀`、`自走棋`、`游戏攻略` |
 | [Ajun Industry](https://ajun-industry.packscena.com/) | Chinese-language industry-chain reference library with illustrated explainers and company relationships. | `值得收藏` |
+| [NEON DUO 双图准备清单](https://a2oliteneon.xyz/guides/photo-guide) | 公开的双人舞蹈视频概念准备指南，说明成年肖像、构图、文件限制和角色/授权检查；真实 AI 生成及购买尚未开放。运营者关联、AI 辅助提名。 | `摄影准备`、`参考指南` |
 
 
 ## 电子书
