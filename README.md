@@ -579,6 +579,7 @@
 | [Hello Github](https://hellogithub.com/) | 分享 GitHub 上入门级、有趣的开源项目 | `Github`、`开源项目` |
 | [linkfox](http://linkFox.io) | 免费的短链服务，可以将长链接转换为短链 | `短链` |
 | [jQuery插件库](http://www.jq22.com/) | 致力于收集jQuery插件和提供各种jQuery特效的详细使用方法，提供在线预览，jQuery插件下载及教程。 | `jQuery` |
+| [MemeBako](https://www.memebako.com/) | 高清无水印表情包图片大全与热梗图鉴：咕咕嘎嘎企鹅、奶龙等独立专题库，梗图/贴纸/GIF/壁纸点击一键复制，支持在线自制表情包，中英日韩四语，免登录免费。 | `表情包`、`梗图` |
 | [Neets](https://neets.cc/) | Nneets是你的追剧管家，你可以把目前追的各种影视、综艺等记录下来，做追剧清单，更新永不落。它不生产观看渠道，只是各种观看来源的搬运工，并且一般都会有好几个观看源供君选择，还加上了有无广告、是否在线播放等标签。 | `追剧管家` |
 | [Nicetool](http://www.nicetool.net/) | 好工具网致力于收集和打造各种简单易用的在线工具，目前已有500多个工具。 | `在线工具` |
 | [typora](https://typora.io/) | 一款markdown编辑器和阅读器 | `Markdown编辑器` |
