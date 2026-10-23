@@ -329,6 +329,7 @@
 | [颜色码转换](http://www.sioe.cn/yingyong/yanse-rgb-16/) | RGB颜色值与十六进制颜色码转换工具 | `颜色转换` |
 | [AI Lab](https://ailab.packscena.com/) | Chinese browser utility hub with basic image compression and local text tools; advanced compression requires sign-in and points. | `在线工具` |
 | [DishVivid](https://dishvivid.com/) | Food-photo editor with local manual lighting, color and crop adjustments; optional AI edits require sign-in and an available allowance. | `在线工具` |
+| [Paper Texture](https://paper-texture.com/paper-texture-overlay/) | Free guest browser editor for layering six AI-generated paper surfaces over an image; surfaces are licensed for finished designs, not CC0 or standalone redistribution. Operator-affiliated, AI-assisted suggestion. | `在线工具`、`图像处理` |
 
 
 ## 在线简历
