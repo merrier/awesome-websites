@@ -118,6 +118,10 @@
 | [AiTechYun](http://www.atyun.com/) | 关于AI的各种信息，包括新闻和资源下载，旨在让大家更了解人工智能 | `网站导航`、`资源` |
 | [scikit-learn](http://sklearn.lzjqsdd.com/) | 基于Python语言的机器学习工具，可以很轻松的实现分类、聚类、回归等 | `机器学习`、`Python` |
 | [里米先生](https://blog.limiabc.com/) | wordpress主题，设计师的个人博客，简约大方，创意十足 | `Wordpress`、`设计`、`创意` |
+| [LogoMovo](https://logomovo.com/) | AI logo studio with public design references; generation requires sign-in and payment. | `人工智能` |
+| [LookScene](https://lookscene.packscena.com/) | AI hairstyle, outfit and scene previews; the current trial requires invitation, sign-in and credits. | `人工智能` |
+| [NailMoodLab](https://nailmoodlab.com/) | Nail-design references and AI style previews; generation requires sign-in and usage credits. | `人工智能` |
+| [PackScena](https://packscena.com/) | AI product-photo backgrounds and lifestyle scenes; the current trial requires invitation, sign-in and an allowance. | `人工智能` |
 
 ## 优秀网站
 
@@ -323,6 +327,9 @@
 | [音乐直链搜索](https://music.liuzhijin.cn/) | 刘志进特制多站合一音乐搜索解决方案，可搜索试听网易云音乐、QQ音乐、酷狗音乐、酷我音乐、虾米音乐、百度音乐、一听音乐、咪咕音乐、荔枝FM、蜻蜓FM、喜马拉雅FM、全民K歌、5sing原创翻唱音乐。 | `音乐搜索` |
 | [颜色分析工具](http://color3d.herokuapp.com/) | 上传图片后可以查看像素在LAB、RGB、HSL、HSV中的分布 | `颜色分析` |
 | [颜色码转换](http://www.sioe.cn/yingyong/yanse-rgb-16/) | RGB颜色值与十六进制颜色码转换工具 | `颜色转换` |
+| [AI Lab](https://ailab.packscena.com/) | Chinese browser utility hub with basic image compression and local text tools; advanced compression requires sign-in and points. | `在线工具` |
+| [DishVivid](https://dishvivid.com/) | Food-photo editor with local manual lighting, color and crop adjustments; optional AI edits require sign-in and an available allowance. | `在线工具` |
+| [Paper Texture](https://paper-texture.com/paper-texture-overlay/) | Free guest browser editor for layering six AI-generated paper surfaces over an image; surfaces are licensed for finished designs, not CC0 or standalone redistribution. Operator-affiliated, AI-assisted suggestion. | `在线工具`、`图像处理` |
 
 
 ## 在线简历
@@ -341,6 +348,7 @@
 | [张雯莉的简历](http://zhangwenli.com/cv/cn.html) | 可以切换中英文，提供下载功能，就是网站太慢了 | `下载` |
 | [罗礼权的个人简历](http://cv.heeroluo.net/) | 简单却不平凡，突出了项目经历，值得推荐 | `简单` |
 | [一个会动的简历](https://jirengu-inc.github.io/animating-resume/public/) | 一个很独特的简历，不过总感觉可远观而不可亵玩 | `独特` |
+| [ResumePlot](https://resumeplot.com/) | Bilingual local resume editing with PDF and JSON export; optional AI, cloud saving and sharing require an account. | `在线简历` |
 
 
 ## 官方网站
@@ -591,6 +599,8 @@
 | [美剧社](http://www.meijushe.cc/) | 这里有最新最全的美剧资源和电影资源，同时支持在线播放 | `美剧`、`电影` |
 | [音乐搜索器](https://shenzjd.com/shenzjd/music/) | 多站合一音乐搜索解决方案，可搜索试听网易云音乐、QQ音乐、酷狗音乐、酷我音乐、虾米音乐、百度音乐、一听音乐、咪咕音乐、荔枝FM、蜻蜓FM、喜马拉雅FM、全民K歌、5sing原创翻唱音乐。 | `音乐搜索` |
 | [万象棋谱 WXHub](https://wxq.whatsyour.fun/) | 《王者荣耀》万象棋（自走棋）非官方玩家工具站：阵容编辑器拖拽调站位、英雄/装备/天赋/效果牌图鉴、伤害计算器与快速认卡练习，免注册打开即用。 | `王者荣耀`、`自走棋`、`游戏攻略` |
+| [Ajun Industry](https://ajun-industry.packscena.com/) | Chinese-language industry-chain reference library with illustrated explainers and company relationships. | `值得收藏` |
+| [NEON DUO 双图准备清单](https://a2oliteneon.xyz/guides/photo-guide) | 公开的双人舞蹈视频概念准备指南，说明成年肖像、构图、文件限制和角色/授权检查；真实 AI 生成及购买尚未开放。运营者关联、AI 辅助提名。 | `摄影准备`、`参考指南` |
 
 
 ## 电子书
@@ -625,6 +635,7 @@
 | [泡面吧](http://www.paomianba.com/) | 泡面吧，在线教育导航品牌，服务在线教育行业创业者、投资人。促进交流，让大家可以像泡面一样了解在线教育的名站动态。 | `教育导航` |
 | [炫猿](https://oo1.win/) | 电影、云、音乐、软件、浏览器插件、娱乐、学习等类型网站导航 | `网站` |
 | [龙轩导航](http://ilxdh.com/) | 龙轩导航提供最快捷的资源平台，让你迅速找到想要的资源，准确又方便快捷 | `资源` |
+| [SubAtlas](https://subatlas.packscena.com/) | Subscription-tool offer catalog with comparisons, help guides and provider-specific access conditions. | `网站导航` |
 
 
 ## 资源下载
