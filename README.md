@@ -264,6 +264,7 @@
 | [NameBeta](https://namebeta.com/) | 共收录 1578 种顶级域名，汇集互联网上 27 家知名域名注册商，每日更新价格信息 | `域名` |
 | [Nicetool](http://www.nicetool.net/) | 好工具网致力于收集和打造各种简单易用的在线工具，目前已有500多个工具。 | `工具集合` |
 | [Office Converter](https://cn.office-converter.com/) | 免费在线文件转换器( office-converter.com)，是最佳在线文件转换器。你能免费在线转换视频,在线转换音频,在线转换图形,在线转换文档和压缩。在线转换文件，包括PDF，Word，Excel，PowerPoint，OpenOffice，Flash，HTML，MP4，MP3，AVI，MKV，FLV，MOV，SWF，iPhone，Microsoft Xbox，WMV，WMA，OGG，JPG，BMP，TIFF，PNG，GIF，EPUB，ZIP，RAR等多种格式 | `文件转换` |
+| [Online Tone Generator](https://theaudiostuff.com/tools/signal-generator/) | 免费在线音频信号发生器：正弦波/方波/三角波/锯齿波，五种噪声（白噪声、粉红噪声、棕噪声等），扫频，左右声道与相位测试，可导出 WAV；浏览器本地运行，无需注册 | `音频`、`信号发生器`、`测试音` |
 | [openGPS.cn](https://www.opengps.cn/Data/IP/LocHighAcc.aspx) | 根据IP定位地理位置 | `IP`、`地理位置` |
 | [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) | 测试网站速度，优化性能，同时还会给出很具体的建议，很强大实用 | `性能` |
 | [Paletton](http://paletton.com/) | 一个用于创建颜色组合的设计工具，使用色轮来创造伟大的调色板 | `设计`、`颜色组合` |
