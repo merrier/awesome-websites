@@ -669,6 +669,7 @@
 | [Elevator Saga](http://play.elevatorsaga.com/) | 一款电梯升降式游戏，一步步解决问题，如在第一关中，你要在最多 60 秒内运输 15 人。 | `电梯游戏` |
 | [Flexbox Defense](http://www.flexboxdefense.com/) | 使用Flexbox定位属性进行防御的塔防游戏 | `Flexbox` |
 | [Flexbox Froggy](http://flexboxfroggy.com/) | 使用CSS相关属性帮青蛙渡河 | `CSS`、`青蛙渡河` |
+| [Sandbox Physics](https://sandboxphysics.com/zh/) | 拖动模型、调整参数，观察黑洞引力透镜、彩虹光路和双缝干涉等物理现象；提供中英文讲解。 | `物理`、`交互学习` |
 | [Screeps](https://screeps.com/) | 通过玩游戏来学习 JavaScript。据称是全球第一个面向程序员的大型多人在线沙盒游戏。 | `在线沙盒游戏`、`Javascript` |
 | [The Bezier Game](https://bezier.method.ac/) | 在The Bezier Game游戏中，首先以动画的方式来演示一遍贝塞尔曲线画法，然后自己尝试去绘制。要注册看演示的提示，比要按Shift或Alt按等。 | `贝塞尔曲线` |
 | [Vim Adventures](https://vim-adventures.com/) | 在游戏中学习Vim | `Vim` |
