@@ -323,6 +323,7 @@
 | [音乐直链搜索](https://music.liuzhijin.cn/) | 刘志进特制多站合一音乐搜索解决方案，可搜索试听网易云音乐、QQ音乐、酷狗音乐、酷我音乐、虾米音乐、百度音乐、一听音乐、咪咕音乐、荔枝FM、蜻蜓FM、喜马拉雅FM、全民K歌、5sing原创翻唱音乐。 | `音乐搜索` |
 | [颜色分析工具](http://color3d.herokuapp.com/) | 上传图片后可以查看像素在LAB、RGB、HSL、HSV中的分布 | `颜色分析` |
 | [颜色码转换](http://www.sioe.cn/yingyong/yanse-rgb-16/) | RGB颜色值与十六进制颜色码转换工具 | `颜色转换` |
+| [UpGrow Instagram 免费工具](https://www.upgrow.com/free-instagram-tools) | 免费 Instagram 工具：互动率计算器、话题标签生成器、文案生成器和网红搜索 | `Instagram`、`社交媒体` |
 
 
 ## 在线简历
