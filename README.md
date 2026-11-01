@@ -228,6 +228,7 @@
 | [t.cn短网址生成器](http://qvni.cn/t.cn/) | 可以将网址转换成t.cn域名的短链 | `短链`、`短网址`、`t.cn` |
 | [cloudconvert](https://cloudconvert.com/mkv-to-mp4) | 在线转换视频文件至 MP4 格式，免费并且不需要注册 | `视频转换`、`MP4` |
 | [My Brand New Logo](https://mybrandnewlogo.com/logo-maker) | 在30秒内创建一个Logo，可用于各种用途 | `Logo` |
+| [PicOnTap](https://picontap.com/) | 免费在线 AI 修图工具，无需注册，用文字描述即可去除物体、替换背景、改颜色、修复老照片；免费额度每隔一天刷新，另有付费套餐 | `图片处理`、`AI修图`、`抠图` |
 | [小鸡词典](https://jikipedia.com/) | 查网络流行语，就上小鸡词典。小鸡词典专注于网络流行语的收录和解释，以最快的速度在全网捕捉当下的网络热词。以简单明了，清晰易懂的形式，向用户介绍网络流行语的含义、来历、传播过程和引申义。用户不仅能够通过小鸡词典了解网络用语，还能接触到小众黑话、新梗热梗、弹幕用语、方言俚语等不同的流行文化，以及网友们自主创造的旧词新解等。 | `流行语`、`梗` |
 | [10分钟邮箱](https://10minutemail.com/10MinuteMail/index.html?dswid=5142) | 访问网页即可获得一个临时邮箱，页面广告较多。 | `临时邮箱` |
 | [99PDF](http://www.99pdf.com/) | 在线批量压缩PDF | `压缩PDF` |
