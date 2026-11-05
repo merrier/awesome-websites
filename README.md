@@ -323,6 +323,8 @@
 | [音乐直链搜索](https://music.liuzhijin.cn/) | 刘志进特制多站合一音乐搜索解决方案，可搜索试听网易云音乐、QQ音乐、酷狗音乐、酷我音乐、虾米音乐、百度音乐、一听音乐、咪咕音乐、荔枝FM、蜻蜓FM、喜马拉雅FM、全民K歌、5sing原创翻唱音乐。 | `音乐搜索` |
 | [颜色分析工具](http://color3d.herokuapp.com/) | 上传图片后可以查看像素在LAB、RGB、HSL、HSV中的分布 | `颜色分析` |
 | [颜色码转换](http://www.sioe.cn/yingyong/yanse-rgb-16/) | RGB颜色值与十六进制颜色码转换工具 | `颜色转换` |
+| [Web Apps Directory](https://webapps.directory) | 精选的浏览器网页应用目录（英文），涵盖设计与开发工具、编辑器、格式转换器和小游戏，免费浏览和提交 | `网页应用`、`在线工具`、`目录` |
+| [PWA Directory](https://pwa.directory) | 可安装的渐进式网页应用（PWA）目录（英文），每个条目标明离线支持和安装方式，免费浏览 | `PWA`、`网页应用`、`目录` |
 
 
 ## 在线简历
