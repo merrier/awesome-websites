@@ -290,6 +290,7 @@
 | [yEd](https://www.yworks.com/products/yed) | 在线绘制流程图 | `流程图` |
 | [Yellow Lab Tools](https://yellowlab.tools/) | Yellow Lab Tools 偏向于一个发现不良实践的工具，会综合页面权重、请求数、DOM、错误的 Javascript、错误的 CSS 等方面取得一个评分。并显示出在加载页面的过程中，DOM 是如何相互影响。 | `Web`、`性能分析` |
 | [Youtube Multi Downloader](https://youtubemultidownloader.net/playlists.html) | 免费的Youtube视频下载器 | `Youtube` |
+| [GetYouTubeTranscript](https://getyoutubetranscript.com/) | 在线获取YouTube视频字幕/文字稿，带时间戳，支持多语言与翻译，可下载TXT、SRT、VTT | `Youtube`、`字幕` |
 | [万箭齐发](https://wangyasai.github.io/Stars-Emmision/) | 可以一键生成各种射线发射的效果，可以调整各种参数，包括方向、速度、射线大小等等，支持导出为PNG。 | `发射效果` |
 | [代码高亮化](https://kn007.net/code-highlight.html) | 只支持html、css、js、xml、php这几种语言的高亮化 | `高亮` |
 | [全球电视直播](http://bddn.cn/zb.htm) | 一个功能非常强大的电视直播网站，真的是十分良心；它支持几百个电视直播的网站，几乎拥有一般电视直播网站拥有的所有频道，它还支持港澳台卫视，国外电视等等。 | `电视直播` |
