@@ -246,6 +246,7 @@
 | [Diagram](https://webdemo.myscript.com/views/diagram/index.html#/edit) | 手绘图，然后保存成 PPT 的在线服务。 | `手绘`、`PPT` |
 | [Draw.io](https://www.draw.io/) | 在线云绘图制作平台，可以快速、自由的创建简单的图表，流程图、网页模版构架图、框架图等等 | `流程图` |
 | [Editor.Pho.to](http://editor.pho.to/zh/edit/) | Editor.Pho.to 是一款拥有照片即时编辑工具的在线照片编辑器。添加文本和标签，应用滤镜和特效。裁剪、旋转、调整大小和调整图片。 | `照片编辑`、`滤镜` |
+| [EveryApp](https://everyapp.pro/) | 300 多个免费在线工具、应用和小游戏合集：合并压缩 PDF、编辑图片和视频、记账分账、习惯打卡等，可在浏览器直接使用，也能安装到手机和电脑；找不到想要的应用时，用自然语言描述即可生成专属应用 | `工具集合`、`PDF`、`图片处理`、`在线工具` |
 | [ezyZip](http://www.ezyzip.com/cn.html) | 在线压缩文件。无需安装或上传/下载。在浏览器中运行 | `压缩文件` |
 | [favicon.cc](http://www.favicon.cc/) | 这是一个可以将用户的图片转换为ico图片的网站。将图片制作成ico图标并导出。 | `ico` |
 | [FIGMA](https://www.figma.com) | 一款界面设计协作神器，图形设计功能强大、支持多人在线编辑与多人实时评论，用于开会或者研讨非常方便，也可以随意保存历史版本，简直堪称设计界的Google Docs。支持导出jpg、png、svg等多种格式。 | `设计`、`协同` |
