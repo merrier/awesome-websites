@@ -176,6 +176,7 @@
 | [Heraclos](https://heraclosgame.com/) | 一个在线的用手柄进行的游戏，画面很好看，你控制一个女生进行探索。 | `游戏`、`视觉` |
 | [Hone Hone Clock](http://blog.itmyhome.com/hone_hone_clock/) | 很火的一个人体时钟，可以直接看其源码引用，本质上是用flash实现的 | `时钟`、`flash` |
 | [html5游戏](http://html5.huceo.com/) | 总结了很多html5做的小游戏 | `H5`、`游戏` |
+| [Puffer Party](https://pufferparty.org/) | 浏览器多人词语游戏，玩家轮流给出符合类别的答案，把河豚传给下一位。支持私人房间和单人练习。 | `H5`、`游戏` |
 | [HTML5爱心表白动画](http://www.html5tricks.com/demo/jiaoben1892/index.html) | 程序员做的纯HTML5爱心表白动画，值得学习！ | `H5`、`表白`、`动画` |
 | [Learn Git Branching](https://learngitbranching.js.org/) | 以动画和闯关的形式来学习Git | `游戏`、`git` |
 | [mermaid](https://mermaidjs.github.io/) | 采用类似Markdown的语法，通过单纯的文本生成图表和流程图 | `流程图`、`Markdown` |
